@@ -185,6 +185,13 @@ Generate: Lesson Quiz, Chapter Quiz, Mid Test, Final Test, Speaking Test, Readin
 
 Separate workbook with: writing pages, translation, sentence creation, picture description, speaking practice, review tests.
 
+> **DELE exam files for this project:**
+> - [`dele-exam-guide.md`](dele-exam-guide.md) — DELE A1 & A2 structures, the 2-group scoring rule, sample questions, ~70 exam words, tips
+> - [`mock-test-a1.md`](mock-test-a1.md) — full DELE A1 mock (lectura 45 min, auditiva 20 min, escritas 25 min, orales 10 min) with answer key
+> - [`mock-test-a2.md`](mock-test-a2.md) — full DELE A2 mock (lectura 60 min, auditiva 35 min, escritas 45 min, orales 12 min) with answer key
+
+> **DELE A1/A2:** 4 pruebas — Comprensión de lectura, Comprensión auditiva, Expresión e interacción escritas, Expresión e interacción orales (25 points each). **Pass rule:** ≥30/50 in Group 1 (lectura + escritas) **AND** ≥30/50 in Group 2 (auditiva + orales) — both groups must pass!
+
 ### Phase 13 – Teacher Guide
 
 Create: lesson objectives, activities, games, pronunciation tips, common mistakes by Marathi/Hindi speakers, homework, assessment rubric.
@@ -721,15 +728,19 @@ Write 3 sentences introducing yourself: *Hola, me llamo ___ . Soy de India. Esto
 | 23. Present Tense | 201 |
 | 24. Revision | 215 |
 | 25. Final Test | 225 |
-| Answer Key (उत्तरे / उत्तर) | 233 |
-| Vocabulary Glossary (शब्दकोश) | 245 |
-| Index (निर्देशांक) | 280 |
+| **DELE Exam Preparation (परीक्षा तयारी / परीक्षा की तैयारी)** | |
+| DELE A1 & A2 Exam Guide (परीक्षा मार्गदर्शिका) | 233 |
+| DELE A1 Mock Test | 241 |
+| DELE A2 Mock Test | 251 |
+| Answer Key (उत्तरे / उत्तर) | 263 |
+| Vocabulary Glossary (शब्दकोश) | 275 |
+| Index (निर्देशांक) | 310 |
 
 ---
 
 ## 18. Image Gallery
 
-A starter set of **19 flat vector illustrations (SVG)** — simple colorful style, white background, educational. Open them in any browser or SVG viewer; they can later be recreated with AI image tools at higher quality.
+A starter set of **20 flat vector illustrations (SVG)** — simple colorful style, white background, educational. Open them in any browser or SVG viewer; they can later be recreated with AI image tools at higher quality.
 
 ### El Alfabeto Español — Spanish Alphabet Chart
 
@@ -802,6 +813,10 @@ A starter set of **19 flat vector illustrations (SVG)** — simple colorful styl
 ### El Cuerpo — Body Parts
 
 ![Body Parts](images/body-parts.svg)
+
+### El Examen — DELE A1 & A2 Exam
+
+![DELE Exam](images/exam.svg)
 
 ### Cover mock — Book Cover
 
@@ -1241,3 +1256,927 @@ Report errors as: Location | Issue | Suggested fix
 | difícil | कठीण | मुश्किल | दीफिसील | La tarea es difícil. |
 | caro | महाग | महँगा | कारो | El hotel es caro. |
 | barato | स्वस्त | सस्ता | बारातो | La fruta es barata. |
+
+
+---
+
+# DELE A1 & A2 Exam Guide (स्पॅनिश परीक्षा मार्गदर्शिका / स्पेनिश परीक्षा मार्गदर्शिका)
+
+> Complete guide to the official **DELE A1** and **DELE A2** exams from Instituto Cervantes — structure, scoring, sample questions, exam vocabulary and tips, explained in **Marathi** (मराठी) and **Hindi** (हिंदी).
+>
+> Related files: [Mock Test A1](mock-test-a1.md) · [Mock Test A2](mock-test-a2.md)
+
+---
+
+## 1. Exam Overview — परीक्षेचा परिचय / परीक्षा का परिचय
+
+| | DELE A1 | DELE A2 |
+| --- | --- | --- |
+| Who | Complete beginners (~100 study hours) | After A1 (~200 study hours) |
+| Pruebas | 4: Comprensión de lectura, Comprensión auditiva, Expresión e interacción escritas, Expresión e interacción orales | Same 4 pruebas, longer format |
+| Total time | ~100 min (+ 10–15 min speaking) | ~150 min (+ 12 min speaking) |
+| Max points | 100 (25 per prueba) | 100 (25 per prueba) |
+| **Pass rule** | **≥30/50 in EACH of the 2 groups** | **≥30/50 in EACH of the 2 groups** |
+| Validity | Forever | Forever |
+
+**The two groups (important!):**
+- **Group 1:** Comprensión de lectura (25) + Expresión e interacción escritas (25) = 50 → need **30**
+- **Group 2:** Comprensión auditiva (25) + Expresión e interacción orales (25) = 50 → need **30**
+
+> **मराठी:** तुम्हाला **दोन्ही** गटांमध्ये उत्तीर्ण व्हावे लागेल — गट 1 (वाचन + लेखन) मध्ये किमान 30 आणि गट 2 (ऐकणे + बोलणे) मध्ये किमान 30. एका गटात जास्त गुण दुसऱ्या गटाची भरपाई करत नाहीत!
+>
+> **हिंदी:** आपको **दोनों** समूहों में उत्तीर्ण होना है — समूह 1 (पढ़ना + लिखना) में कम से कम 30 और समूह 2 (सुनना + बोलना) में कम से कम 30। एक समूह के अधिक अंक दूसरे की भरपाई नहीं करते!
+
+---
+
+## 2. DELE A1 — Prueba by Prueba (विभाग-वार / भाग-वार)
+
+| Prueba | Duration | Points | Tasks |
+| --- | --- | --- | --- |
+| **Comprensión de lectura** (Reading — वाचन / पढ़ना) | 45 min | 25 | 4 |
+| **Comprensión auditiva** (Listening — ऐकणे / सुनना) | 20 min | 25 | 4 |
+| **Expresión e interacción escritas** (Writing — लेखन / लिखना) | 25 min | 25 | 2 |
+| **Expresión e interacción orales** (Speaking — बोलणे / बोलना) | 10 min (+10 prep) | 25 | 4 |
+
+### 2.1 Comprensión de lectura (45 min, 25 points)
+
+| Task | Content | Items |
+| --- | --- | --- |
+| 1 | Match 5 short notices to 5 situations | 5 |
+| 2 | Short text (SMS/note) — **verdadero / falso** | 5 |
+| 3 | 3 short texts + match questions | 6 |
+| 4 | Longer text — **choose correct answer (A/B/C)** | 9 |
+
+Reading example (notice):
+> **„Biblioteca: abierta de lunes a viernes, de 9 a 18 horas."**
+> **Pregunta:** La biblioteca está abierta el sábado. → **falso**
+
+### 2.2 Comprensión auditiva (20 min, 25 points)
+- Task 1: 5 short dialogues + choose the correct picture
+- Task 2: announcements — verdadero/falso
+- Task 3: dialogue + choose A/B/C
+- Task 4: longer conversation + choose A/B/C
+
+### 2.3 Expresión e interacción escritas (25 min, 25 points)
+- Task 1: **fill a form** (datos personales: nombre, apellidos, dirección, teléfono, e-mail)
+- Task 2: **write a short message** (~30–40 words, e.g., a birthday invitation to a friend)
+
+### 2.4 Expresión e interacción orales (10 min + 10 prep, 25 points)
+- Task 1: **introduce yourself** (name, country, city, family, job, hobbies)
+- Task 2: describe a **photograph** (who, where, what is happening)
+- Task 3: **monologue** on a simple topic (e.g., mi familia)
+- Task 4: **dialogue** with the examiner (ask/answer about daily life)
+
+Speaking model (Task 1 — 30 seconds):
+> „Hola, me llamo Priya Sharma. Soy de India, de Mumbai. Hablo maratí, hindi y un poco de español. Soy estudiante. Me gusta la música."
+
+---
+
+## 3. DELE A2 — Prueba by Prueba
+
+| Prueba | Duration | Points |
+| --- | --- | --- |
+| **Comprensión de lectura** | 60 min | 25 |
+| **Comprensión auditiva** | 35 min | 25 |
+| **Expresión e interacción escritas** | 45 min | 25 |
+| **Expresión e interacción orales** | 12 min (+12 prep) | 25 |
+
+### 3.1 Comprensión de lectura (60 min)
+- Longer texts: notices, e-mails, newspaper articles, advertisements
+- Tasks: matching, verdadero/falso, A/B/C choice
+
+### 3.2 Comprensión auditiva (35 min)
+- Conversations, radio programmes, announcements, phone messages
+
+### 3.3 Expresión e interacción escritas (45 min)
+- Task 1: **write a letter or e-mail** (~80–100 words): invitation, complaint, thanks
+- Task 2: write a **note/message** in reply to a situation (~40 words)
+
+### 3.4 Expresión e interacción orales (12 min)
+- Introduction · describe a photo (more detail) · talk about a topic (e.g., mi trabajo, mi ciudad) · dialogue with examiner (plans, past experiences)
+
+---
+
+## 4. Exam Vocabulary — परीक्षा शब्दसंग्रह / परीक्षा शब्दावली (~70 words)
+
+| Spanish | Pronunciation | English | Hindi | Marathi |
+| --- | --- | --- | --- | --- |
+| el examen | एल एक्सामेन | exam | परीक्षा | परीक्षा |
+| la prueba | ला प्रुएबा | test/task | परीक्षा/कार्य | चाचणी/काम |
+| aprobar | अपरोबार | to pass | पास होना | उत्तीर्ण होणे |
+| suspender | सुस्पेंडेर | to fail | फेल होना | अनुत्तीर्ण होणे |
+| la nota | ला नोटा | mark/grade | अंक | गुण |
+| la pregunta | ला प्रेगुंटा | question | सवाल | प्रश्न |
+| la respuesta | ला रेस्पुएस्टा | answer | जवाब | उत्तर |
+| el texto | एल तेक्स्तो | text | पाठ | मजकूर |
+| la palabra | ला पालाबरा | word | शब्द | शब्द |
+| la frase | ला फ्रासे | sentence | वाक्य | वाक्य |
+| el anuncio | एल आनुन्सियो | notice/advert | विज्ञापन | जाहिरात |
+| el mensaje | एल मेन्साहे | message | संदेश | संदेश |
+| el formulario | एल फ़ोर्मुलारियो | form | फ़ॉर्म | अर्ज |
+| rellenar | रेये नार | to fill in | भरना | भरणे |
+| marcar | मार्कार | to mark | निशान लगाना | खूण करणे |
+| escuchar | एस्कुचार | to listen | सुनना | ऐकणे |
+| leer | लेएर | to read | पढ़ना | वाचणे |
+| escribir | एस्क्रिबिर | to write | लिखना | लिहिणे |
+| hablar | आबलार | to speak | बोलना | बोलणे |
+| oír | ओइर | to hear | सुनना | ऐकणे |
+| ¿Puede repetir, por favor? | पुएदे रेपेतीर? | Can you repeat? | दोहराएँ? | पुन्हा सांगाल? |
+| No entiendo | नो एन्टिएन्दो | I don't understand | समझा नहीं | समजले नाही |
+| más despacio | मास देस्पासियो | more slowly | धीरे | हळू |
+| otra vez | ओत्रा बेस | again | फिर से | पुन्हा |
+| verdadero | बेरदादेरो | true | सही | खरे |
+| falso | फ़ाल्सो | false | गलत | खोटे |
+| correcto | कोर्रेक्तो | correct | सही | बरोबर |
+| el nombre | एल नोम्ब्रे | first name | नाम | नाव |
+| los apellidos | लोस अपेयिदोस | surname | उपनाम | आडनाव |
+| la dirección | ला दिरेक्सियोन | address | पता | पत्ता |
+| el teléfono | एल तेलेफ़ोनो | phone | फ़ोन | फोन |
+| la fecha | ला फ़ेचा | date | तारीख | तारीख |
+| la hora | ला ओरा | time | समय | वेळ |
+| la hoja de respuestas | ला ओहा दे रेस्पुएस्तास | answer sheet | उत्तर पत्रक | उत्तरपत्रिका |
+| llenar | येयार | to fill | भरना | भरणे |
+| subrayar | सुब्रायार | to underline | रेखांकित करना | अधोरेखित करणे |
+| tachar | ताचार | to cross out | काटना | काढणे |
+| elegir | एलेहिर | to choose | चुनना | निवडणे |
+| la foto | ला फ़ोतो | photo | फ़ोटो | छायाचित्र |
+| describir | देस्क्रिबिर | to describe | वर्णन करना | वर्णन करणे |
+| presentarse | प्रेसेन्तार्से | to introduce yourself | परिचय देना | ओळख करणे |
+| contar | कोंतार | to tell | बताना | सांगणे |
+| gustar | गुस्तार | to like | पसंद होना | आवडणे |
+| querer | केरेर | to want | चाहना | हवे असणे |
+| poder | पोदेर | can | सकना | शकणे |
+| tener que | तेनेर के | must | करना पड़ता है | लागणे |
+| la familia | ला फ़ामिलिया | family | परिवार | कुटुंब |
+| el trabajo | एल त्राबाहो | work | काम | काम |
+| la ciudad | ला सियुदाद | city | शहर | शहर |
+| el país | एल पाइस | country | देश | देश |
+| la tienda | ला तिएन्दा | shop | दुकान | दुकान |
+| el restaurante | एल रेस्तोरान्ते | restaurant | रेस्तराँ | रेस्टॉरंट |
+| el supermercado | एल सुपेरमेरकादो | supermarket | सुपरमार्केट | सुपरमार्केट |
+| el médico | एल मेदिको | doctor | डॉक्टर | डॉक्टर |
+| el tren | एल त्रेन | train | ट्रेन | ट्रेन |
+| el billete | एल बियेते | ticket | टिकट | तिकीट |
+| comprar | कोम्प्रार | to buy | खरीदना | खरेदी करणे |
+| pagar | पागार | to pay | भुगतान करना | पैसे देणे |
+| costar | कोस्तार | to cost | कीमत होना | किंमत असणे |
+| abierto | आबिएर्तो | open | खुला | उघडे |
+| cerrado | सेरादो | closed | बंद | बंद |
+| hoy | ओय | today | आज | आज |
+| mañana | मान्याना | tomorrow | कल (आगे) | उद्या |
+| ayer | आयेर | yesterday | कल (पीछे) | काल |
+| lunes | लुनेस | Monday | सोमवार | सोमवार |
+| domingo | दोमिंगो | Sunday | रविवार | रविवार |
+| la semana | ला सेमाना | week | सप्ताह | आठवडा |
+| el año | एल आन्यो | year | साल | वर्ष |
+| el mes | एल मेस | month | महीना | महिना |
+
+---
+
+## 5. Exam Day Tips for Marathi/Hindi Speakers (परीक्षेच्या दिवसाच्या टिप्स / परीक्षा दिवस की टिप्स)
+
+### 5.1 During Comprensión de lectura
+- Skim the text first, then read the question, then search for the answer.
+- **Verdadero** only if the text says it EXACTLY — do not use your own knowledge.
+- Time plan: Task 4 is the hardest — finish Tasks 1–3 fast, leave time for Task 4.
+
+### 5.2 During Comprensión auditiva
+- Read the questions in the pause before the audio.
+- Answers come in order — tick immediately.
+- Missed one? Forget it and stay with the next question.
+
+### 5.3 During Expresión e interacción escritas
+- **Answer every point** of the task (¿Cuándo? ¿Dónde? ¿Qué?) — missing points lose marks.
+- Task 2 A1: ~30–40 words minimum. A2 Task 1: ~80–100 words.
+- Salutation: **Querido** (male) / **Querida** (female) + name; close with **Un abrazo** / **Saludos** + your name.
+- Accents matter: "el" (the) vs "él" (he), "si" (if) vs "sí" (yes). Learn where to put á é í ó ú.
+
+### 5.4 During Expresión e interacción orales
+- Speak clearly and at normal speed — examiners score communication, not perfection.
+- Don't understand? Say „¿Puede repetir, por favor?" — **no marks are deducted**.
+- Describe a photo with the 4 Ws: **¿Quién?** (who) · **¿Dónde?** (where) · **¿Qué hace?** (what is doing) · **¿Qué hay?** (what is there).
+- Prepare your introduction (name, country, city, family, work, hobby) and reuse it.
+
+### 5.5 Pronunciation traps for Indian students (उच्चारण / उच्चार)
+
+| Spanish | Sounds like | Trap |
+| --- | --- | --- |
+| **r** | र (single tap) | "pero" = पेरो |
+| **rr** | रर्र (rolled) | "perro" = पेर्र्रो (dog) — "pero" vs "perro"! |
+| **b / v** | ब (both) | "vino" = बीनो (not वीनो) |
+| **j** | ख़ (strong h) | "joven" = खोबेन |
+| **g (before e/i)** | ख | "general" = खेनेराल |
+| **c (before e/i)** | स | "cine" = सीने |
+| **z** | स | "zapato" = सापातो |
+| **h** | silent | "hola" = ओला (never हला) |
+| **ñ** | न्य | "año" = आन्यो (not आनो) |
+| **ll** | य | "llamo" = यामो |
+| **e** | ए (always short) | "mes" = मेस |
+| **o** | ओ (never "औ") | "como" = कोमो |
+| **u** | ऊ (never "अ") | "cultura" = कुल्तूरा |
+| **que/gui** | के/गी (u silent) | "queso" = केसो, "guiar" = गियार |
+
+---
+
+## 6. A1 Topic Checklist (शब्द विषय चेकलिस्ट / शब्द विषय सूची)
+
+Tick each topic before your exam — you must know ~300 A1 words:
+
+- [ ] Greetings & politeness (hola, buenos días, gracias, adiós)
+- [ ] Numbers 0–100 (prices, phone numbers, dates)
+- [ ] Alphabet & spelling your name
+- [ ] Countries, nationalities, languages
+- [ ] Family (padre, madre, hermano, hermana)
+- [ ] House & furniture (casa, habitación, cocina)
+- [ ] Food & drink (pan, agua, café, arroz)
+- [ ] Shopping (comprar, costar, el precio)
+- [ ] Time: hours, days, months, seasons
+- [ ] Work & professions (trabajo, profesor, médico)
+- [ ] Transport & travel (tren, autobús, billete)
+- [ ] Health (enfermo, dolor, médico)
+- [ ] Weather (llueve, hace frío, hace sol)
+- [ ] Free time & hobbies (música, cine, deporte)
+- [ ] Daily routine verbs (levantarse, comer, dormir)
+- [ ] Question words (qué, quién, dónde, cuándo, cómo, por qué)
+- [ ] Possessives (mi, tu, su, nuestro)
+- [ ] ser + estar + tener + gustar
+
+---
+
+## 7. 6-Week A1 Exam Plan (सहा आठवड्यांचा प्लॅन / छह सप्ताह की योजना)
+
+| Week | Focus | Daily time |
+| --- | --- | --- |
+| 1 | Alphabet, sounds, spelling, greetings, ser/estar | 60 min |
+| 2 | Numbers, dates, time, gustar | 60 min |
+| 3 | Vocabulary topic sets (15 topics), verb endings -ar/-er/-ir | 90 min |
+| 4 | Reading + listening practice every day | 90 min |
+| 5 | Writing: forms + 30-word messages; speaking aloud | 90 min |
+| 6 | Full mock tests (3×), weak-point revision | 2 hours |
+
+> For A2: repeat the plan at A2 level (longer texts, 80–100 word e-mails, past tense **pretérito perfecto**) for 6–8 weeks after A1.
+
+---
+
+## 8. Scoring Sheet (गुणपत्रिका / अंक तालिका) — print & use in practice
+
+| Group | Prueba | Max | Test 1 | Test 2 | Test 3 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Comprensión de lectura | 25 | | | |
+| 1 | Expresión e interacción escritas | 25 | | | |
+| | **Group 1 total (pass ≥ 30)** | **50** | | | |
+| 2 | Comprensión auditiva | 25 | | | |
+| 2 | Expresión e interacción orales | 25 | | | |
+| | **Group 2 total (pass ≥ 30)** | **50** | | | |
+
+> **Next step:** Try the [DELE A1 Mock Test](mock-test-a1.md) now — exactly like the real exam.
+
+
+---
+
+# DELE A1 Mock Test
+
+> **Complete practice exam — exactly like the real DELE A1 (Instituto Cervantes).**
+> Instructions are trilingual: **Spanish · Hindi (हिंदी) · Marathi (मराठी)**.
+>
+> | Prueba | Time | Points |
+> | --- | --- | --- |
+> | 1. Comprensión de lectura (Reading / पढ़ना / वाचन) | 45 min | 25 |
+> | 2. Comprensión auditiva (Listening / सुनना / ऐकणे) | 20 min | 25 |
+> | 3. Expresión e interacción escritas (Writing / लिखना / लेखन) | 25 min | 25 |
+> | 4. Expresión e interacción orales (Speaking / बोलना / बोलणे) | 10 min + 10 prep | 25 |
+> | **Total** | **~100 min** | **100** |
+>
+> **Pass rule (important / महत्वाचे / महत्त्वाचे):** Group 1 (lectura + escritas) ≥ 30/50 **AND** Group 2 (auditiva + orales) ≥ 30/50. Both groups must pass!
+>
+> **How to use:** Set a stopwatch. For auditiva, ask someone to read the script aloud once, or record and play it. Answers are on the last page — don't peek!
+
+---
+
+## Prueba 1 — Comprensión de lectura (45 minutos · 25 puntos)
+
+> **Instructions (Hindi):** आप सूचनाएँ, संदेश और छोटे पाठ पढ़ेंगे और सवालों के जवाब देंगे।
+>
+> **Instructions (Marathi):** तुम्ही सूचना, संदेश व छोटे मजकूर वाचाल आणि प्रश्नांची उत्तरे द्याल.
+
+### Tarea 1 — Match notices to situations (5 puntos)
+
+| Aviso | Texto |
+| --- | --- |
+| 1 | **Prohibido fumar** (Smoking forbidden / धूम्रपान वर्जित) |
+| 2 | **Oferta: 2 × 1 en camisetas** (Offer: 2 for 1 on t-shirts) |
+| 3 | **Cerrado los domingos** (Closed on Sundays) |
+| 4 | **No entrar con animales** (No animals inside) |
+| 5 | **Abierto de 9 a 14 horas** (Open 9 to 14) |
+
+- a) Quiero comprar una camiseta barata. → **2**
+- b) Estoy con mi perro y no puedo entrar. → **4**
+- c) Mañana es domingo, la tienda no abre. → **3**
+- d) No puedo fumar aquí. → **1**
+- e) La oficina abre por la mañana. → **5**
+
+1. → **2** · 2. → **4** · 3. → **3** · 4. → **1** · 5. → **5**
+
+### Tarea 2 — Short message — verdadero / falso (5 puntos)
+
+> „Hola mamá, estoy en el cine. La película es muy larga, llego a casa a las diez. La comida está en la nevera. ¡Hasta luego!"
+
+6. La película es corta. → **falso**
+7. Llega a casa a las diez. → **verdadero**
+8. La comida está en la nevera. → **verdadero**
+9. Escribe un mensaje a su padre. → **falso** (a su madre)
+10. Está en el cine. → **verdadero**
+
+### Tarea 3 — Three short texts — match questions (6 puntos)
+
+> **Texto A:** „Mi casa es pequeña pero bonita. Tiene una habitación, una cocina y un baño. Vivo en el centro de Madrid." — Ana
+> **Texto B:** „Tengo dos hijos, Pablo y Lucía. Trabajo en un hospital. Me gusta cocinar los domingos." — Carlos
+> **Texto C:** „Soy estudiante de español. Las clases son por la tarde, de 5 a 7. El profesor es muy simpático." — Ravi
+
+11. ¿Quién trabaja en un hospital? → **Carlos** (B)
+12. ¿Quién aprende español? → **Ravi** (C)
+13. ¿Quién tiene dos hijos? → **Carlos** (B)
+14. ¿Quién vive en el centro? → **Ana** (A)
+15. ¿Cuántas habitaciones tiene la casa de Ana? → **una**
+16. ¿Cuándo son las clases de español? → **por la tarde, de 5 a 7**
+
+### Tarea 4 — Longer text — choose A/B/C (9 puntos)
+
+> „El sábado fui al mercado con mi madre. Compramos fruta y verdura. Las manzanas costaban 2 euros el kilo. También compramos pan. Después comimos en un restaurante pequeño cerca del mercado. La comida estaba muy buena. Volvimos a casa a las cinco de la tarde."
+
+17. ¿Cuándo fueron al mercado?
+    - A) El domingo · B) **El sábado** · C) El viernes → **B**
+18. ¿Con quién fue?
+    - A) Con su padre · B) Con su amiga · C) **Con su madre** → **C**
+19. ¿Qué compraron?
+    - A) **Fruta y verdura** · B) Carne y pescado · C) Ropa → **A**
+20. ¿Cuánto costaban las manzanas?
+    - A) 1 euro · B) **2 euros el kilo** · C) 3 euros → **B**
+21. ¿Qué más compraron?
+    - A) Queso · B) Leche · C) **Pan** → **C**
+22. ¿Dónde comieron?
+    - A) En casa · B) **En un restaurante pequeño** · C) En el mercado → **B**
+23. ¿Cómo estaba la comida?
+    - A) Mala · B) **Muy buena** · C) No les gustó → **B**
+24. ¿A qué hora volvieron a casa?
+    - A) A las tres · B) A las cuatro · C) **A las cinco** → **C**
+25. El mercado está cerca de…
+    - A) La casa · B) **El restaurante** · C) El cine → **B**
+
+**Lectura total: 25 puntos**
+
+---
+
+## Prueba 2 — Comprensión auditiva (20 minutos · 25 puntos)
+
+> **Instructions (Hindi):** आप छोटे संवाद और घोषणाएँ सुनेंगे और चित्र/उत्तर चुनेंगे।
+>
+> **Instructions (Marathi):** तुम्ही छोटे संवाद व जाहिराती ऐकाल आणि चित्र/उत्तरे निवडाल.
+
+### Tarea 1 — Short dialogues — choose the picture (5 puntos)
+
+*Read each dialogue once. Student chooses A, B or C (described as pictures).*
+
+> **Hombre:** ¿Qué desea tomar?
+> **Mujer:** Un café con leche, por favor.
+
+1. ¿Qué pide la mujer?
+    - A) Té · B) **Café con leche** · C) Agua → **B**
+
+> **Mujer:** ¿Dónde está el supermercado?
+> **Hombre:** Está al lado del banco, en la calle Mayor.
+
+2. ¿Dónde está el supermercado?
+    - A) **Al lado del banco** · B) Al lado del cine · C) En el centro → **A**
+
+> **Niño:** Mamá, ¿puedo ver la tele?
+> **Madre:** No, primero haz los deberes.
+
+3. ¿Qué tiene que hacer el niño?
+    - A) Ver la tele · B) Jugar · C) **Hacer los deberes** → **C**
+
+> **Hombre:** ¿A qué hora sale el tren a Valencia?
+> **Mujer:** A las nueve y media, del andén 3.
+
+4. ¿A qué hora sale el tren?
+    - A) A las nueve · B) **A las nueve y media** · C) A las diez → **B**
+
+> **Mujer:** ¿Cuánto cuesta la falda?
+> **Vendedor:** Son 20 euros, pero hoy hay 10% de descuento.
+
+5. ¿Cuánto cuesta la falda con descuento?
+    - A) 20 euros · B) **18 euros** · C) 10 euros → **B**
+
+### Tarea 2 — Announcements — verdadero / falso (5 puntos)
+
+*Read each twice.*
+
+> „Atención, pasajeros del vuelo IB 452 con destino a Barcelona: la salida será a las 12:30. Por favor, pasen a la puerta de embarque 5."
+
+6. El vuelo sale a las 12:30. → **verdadero**
+7. El destino es Madrid. → **falso** (Barcelona)
+
+> „El museo abre de martes a domingo, de 10 a 19 horas. Los lunes está cerrado."
+
+8. El museo abre los lunes. → **falso**
+9. El museo cierra a las 7 de la tarde. → **verdadero** (19 h)
+
+> „Se busca profesor de inglés. Clases por la tarde. Interesados: llamar al 912 345 678."
+
+10. El anuncio busca un profesor de inglés. → **verdadero**
+
+### Tarea 3 — Dialogue — choose A/B/C (5 puntos)
+
+*Read twice.*
+
+> **Pedro:** Hola, María, ¿qué tal?
+> **María:** Muy bien, gracias. ¿Y tú?
+> **Pedro:** Bien. Oye, ¿quieres venir a mi fiesta de cumpleaños el sábado?
+> **María:** ¡Claro que sí! ¿A qué hora?
+> **Pedro:** A las ocho, en mi casa.
+> **María:** Perfecto, ¿qué puedo traer?
+> **Pedro:** Una torta, si quieres. ¡Hasta el sábado!
+
+11. ¿Cuándo es la fiesta?
+    - A) El domingo · B) **El sábado** · C) El viernes → **B**
+12. ¿Dónde es la fiesta?
+    - A) **En casa de Pedro** · B) En un restaurante · C) En el parque → **A**
+13. ¿A qué hora empieza la fiesta?
+    - A) A las seis · B) A las siete · C) **A las ocho** → **C**
+14. ¿Qué va a traer María?
+    - A) Una bebida · B) **Una torta** · C) Música → **B**
+15. María dice que…
+    - A) No puede ir · B) No le gusta Pedro · C) **Va a la fiesta** → **C**
+
+### Tarea 4 — Longer conversation — choose A/B/C (10 puntos)
+
+*Read twice.*
+
+> **Señora García:** Buenos días, necesito una cita con el doctor.
+> **Recepcionista:** Buenos días. ¿Cuál es su nombre?
+> **Señora García:** Carmen García, con cita el jueves, pero necesito venir hoy porque tengo dolor de cabeza.
+> **Recepcionista:** Un momento… Hoy a las 5 de la tarde tiene hueco. ¿Le parece bien?
+> **Señora García:** Sí, perfecto. ¿El doctor está en la consulta 2?
+> **Recepcionista:** No, ahora el doctor Pérez está en la consulta 3, en la primera planta.
+
+16. ¿Quién llama?
+    - A) El doctor · B) **La señora García** · C) La recepcionista → **B**
+17. ¿Por qué llama?
+    - A) **Tiene dolor de cabeza** · B) Tiene dolor de estómago · C) Quiere una receta → **A**
+18. ¿Cuándo tenía cita antes?
+    - A) El martes · B) El miércoles · C) **El jueves** → **C**
+19. ¿A qué hora es la nueva cita?
+    - A) A las 4 · B) **A las 5** · C) A las 6 → **B**
+20. ¿En qué consulta está el doctor Pérez?
+    - A) Consulta 1 · B) Consulta 2 · C) **Consulta 3** → **C**
+21. ¿En qué planta está la consulta 3?
+    - A) **Primera planta** · B) Segunda planta · C) Planta baja → **A**
+22. La señora García quiere venir…
+    - A) La semana que viene · B) **Hoy** · C) El jueves → **B**
+23. La recepcionista dice que hoy tiene hueco…
+    - A) Por la mañana · B) **Por la tarde** · C) Mañana → **B**
+24. ¿Qué necesita la señora García?
+    - A) Una medicina · B) Un examen · C) **Una cita con el doctor** → **C**
+25. La señora García tiene cita con el doctor…
+    - A) Martínez · B) **Pérez** · C) García → **B**
+
+**Auditiva total: 25 puntos**
+
+---
+
+## Prueba 3 — Expresión e interacción escritas (25 minutos · 25 puntos)
+
+> **Instructions (Hindi):** आप एक फ़ॉर्म भरेंगे और एक छोटा संदेश लिखेंगे।
+>
+> **Instructions (Marathi):** तुम्ही एक फॉर्म भराल आणि एक छोटा संदेश लिहाल.
+
+### Tarea 1 — Fill the form (12 puntos)
+
+Quiere apuntarse a un curso de español. Rellene el formulario con SUS datos reales.
+
+> **Formulario de inscripción — Escuela Cervantes**
+>
+> **Nombre:** ______________
+> **Apellidos:** ______________
+> **Dirección:** ______________
+> **Ciudad:** ______________
+> **Teléfono:** ______________
+> **Correo electrónico:** ______________
+> **Idiomas que habla:** ______________
+> **Nivel de español:** A1  (already ticked)
+> **Firma:** ______________
+
+### Tarea 2 — Short message, ~30–40 words (13 puntos)
+
+> Es el cumpleaños de su amiga Ana el sábado. Escriba un mensaje a Ana.
+> (आपकी दोस्त अन्ना का जन्मदिन शनिवार को है। अन्ना को संदेश लिखें। / तुमच्या मैत्रिणीचा वाढदिवस शनिवारी आहे. तिला संदेश लिहा.)
+> Include: **Felicidades** (congratulations) · **¿Cuándo?** (day/time) · **¿Dónde?** (place)
+
+**Model answer (your message should be similar):**
+
+> „Hola Ana, ¡feliz cumpleaños! Te invito a mi casa el sábado a las 7 de la tarde. Vamos a celebrar juntos. No olvides traer música. Un abrazo, Riya"
+
+> Scoring: saludo 2 P · felicidades 2 P · cuándo 3 P · dónde 3 P · despedida 3 P — total 13 P.
+
+**Escritas total: 25 puntos**
+
+---
+
+## Prueba 4 — Expresión e interacción orales (10 minutos + 10 de preparación · 25 puntos)
+
+> **Instructions (Hindi):** परिचय, एक फ़ोटो का वर्णन, एक विषय पर बोलना और परीक्षक से बातचीत।
+>
+> **Instructions (Marathi):** ओळख, एका फोटोचे वर्णन, एका विषयावर बोलणे व परीक्षकाशी संवाद.
+
+### Tarea 1 — Preséntese (6 puntos) — say for ~30 seconds
+
+Say your name, country, city, languages, work/study, hobby.
+
+**Model answer:**
+
+> „Hola, me llamo Priya Sharma. Soy de India, de Pune. Hablo maratí, hindi, inglés y un poco de español. Soy estudiante. Me gusta la música y el cine."
+
+### Tarea 2 — Describe a photo (7 puntos) — say for ~1 minute
+
+Describe: **¿Quién? ¿Dónde? ¿Qué hace? ¿Qué hay?** (Who? Where? What is doing? What is there?)
+
+**Sample photo description:** a family eating at a restaurant table.
+
+> „En la foto hay una familia. Están en un restaurante. El padre come una sopa, la madre bebe agua y los niños miran el menú. Hay pan y fruta en la mesa. La familia está contenta."
+
+### Tarea 3 — Monologue: Mi familia (6 puntos) — say for ~1 minute
+
+> „Mi familia es pequeña. Somos cuatro: mi padre, mi madre, mi hermano y yo. Mi padre es profesor y mi madre es médica. Mi hermano tiene 10 años. Los domingos comemos juntos. Quiero mucho a mi familia."
+
+### Tarea 4 — Dialogue with examiner (6 puntos)
+
+The examiner asks simple questions — answer fully:
+
+- ¿Cómo te llamas? → „Me llamo Riya."
+- ¿Cuántos años tienes? → „Tengo 25 años."
+- ¿Qué te gusta hacer? → „Me gusta bailar y escuchar música."
+- ¿Dónde vives? → „Vivo en Pune, en la calle College Road."
+- ¿A qué hora te levantas? → „Me levanto a las siete."
+- And you ask 1 question back: → „¿Usted trabaja aquí?" / „¿Le gusta la comida india?"
+
+**Orales total: 25 puntos**
+
+---
+
+## Answer Key (उत्तर कुंजी / उत्तरे)
+
+### Lectura (25)
+
+| Q | A | Q | A | Q | A | Q | A |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 6 | falso | 11 | B | 17 | B |
+| 2 | 4 | 7 | verdadero | 12 | C | 18 | C |
+| 3 | 3 | 8 | verdadero | 13 | B | 19 | A |
+| 4 | 1 | 9 | falso | 14 | A | 20 | B |
+| 5 | 5 | 10 | verdadero | 15 | una | 21 | C |
+| 16 | por la tarde, de 5 a 7 | 22 | B | 23 | B | 24 | C |
+| 25 | B | | | | | | |
+
+### Auditiva (25)
+
+| Q | A | Q | A | Q | A | Q | A |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | B | 7 | falso | 13 | C | 19 | B |
+| 2 | A | 8 | falso | 14 | B | 20 | C |
+| 3 | C | 9 | verdadero | 15 | C | 21 | A |
+| 4 | B | 10 | verdadero | 16 | B | 22 | B |
+| 5 | B | 11 | B | 17 | A | 23 | B |
+| 6 | verdadero | 12 | A | 18 | C | 24 | C |
+| 25 | B | | | | | | |
+
+### Escritas (25)
+- Tarea 1: one correct personal detail = 1 P, all 9 fields = 12 P
+- Tarea 2: see model answer — saludo 2 · felicidades 2 · cuándo 3 · dónde 3 · despedida 3
+
+### Orales (25)
+- Tarea 1: 6 P (name, country, city, languages, work, hobby = 1 P each)
+- Tarea 2: 7 P (4 Ws covered + fluency)
+- Tarea 3: 6 P (topic covered, ~5 sentences)
+- Tarea 4: 6 P (answers + own question)
+
+## Scoring Sheet (गुणांकन / गुण पत्रक)
+
+| Group | Prueba | Max | My Score |
+| --- | --- | --- | --- |
+| 1 | Comprensión de lectura | 25 | |
+| 1 | Expresión e interacción escritas | 25 | |
+| | **Group 1 total — pass ≥ 30** | **50** | |
+| 2 | Comprensión auditiva | 25 | |
+| 2 | Expresión e interacción orales | 25 | |
+| | **Group 2 total — pass ≥ 30** | **50** | |
+
+
+---
+
+# DELE A2 Mock Test
+
+> **Complete practice exam — exactly like the real DELE A2 (Instituto Cervantes).**
+> Instructions are trilingual: **Spanish · Hindi (हिंदी) · Marathi (मराठी)**.
+>
+> | Prueba | Time | Points |
+> | --- | --- | --- |
+> | 1. Comprensión de lectura (Reading / पढ़ना / वाचन) | 60 min | 25 |
+> | 2. Comprensión auditiva (Listening / सुनना / ऐकणे) | 35 min | 25 |
+> | 3. Expresión e interacción escritas (Writing / लिखना / लेखन) | 45 min | 25 |
+> | 4. Expresión e interacción orales (Speaking / बोलना / बोलणे) | 12 min + 12 prep | 25 |
+> | **Total** | **~150 min** | **100** |
+>
+> **Pass rule (important / महत्वाचे / महत्त्वाचे):** Group 1 (lectura + escritas) ≥ 30/50 **AND** Group 2 (auditiva + orales) ≥ 30/50. Both groups must pass!
+>
+> **How to use:** Set a stopwatch. For auditiva, ask someone to read the script aloud (each text once or twice as marked). Answers are on the last page — don't peek!
+
+---
+
+## Prueba 1 — Comprensión de lectura (60 minutos · 25 puntos)
+
+> **Instructions (Hindi):** A2 पढ़ने में लंबे पाठ, ईमेल, समाचार और विज्ञापन शामिल हैं।
+>
+> **Instructions (Marathi):** A2 वाचनात मोठे मजकूर, ईमेल, वृत्तपत्रे व जाहिराती आहेत.
+
+### Tarea 1 — Notices — match to situations (6 puntos)
+
+| Aviso | Texto |
+| --- | --- |
+| 1 | **Sala de espera: apaguen los móviles** |
+| 2 | **Venta de garaje — sábado de 10 a 14** |
+| 3 | **Piscina cerrada por reparación hasta el 15 de junio** |
+| 4 | **Se busca camarero — experiencia no necesaria** |
+
+- a) Quiero vender cosas usadas. → **2**
+- b) Estoy en el hospital y suena mi móvil. → **1**
+- c) Quiero nadar, pero no es posible. → **3**
+- d) Busco trabajo en un restaurante. → **4**
+
+1. → **2** · 2. → **1** · 3. → **3** · 4. → **4**
+
+> | Aviso | Texto |
+> | --- | --- |
+> | 5 | **Oficina de correos: abierta de 9 a 14 y de 16 a 19** |
+> | 6 | **Menú del día: 12 euros, bebida incluida** |
+
+- e) Quiero almorzar barato. → **6**
+- f) Necesito enviar una carta. → **5**
+
+5. → **6** · 6. → **5**
+
+### Tarea 2 — E-Mail — verdadero / falso (6 puntos)
+
+> „Querido Sr. Mehta: Gracias por su consulta. Lamentablemente, la habitación individual del 5 al 8 de julio ya está ocupada. Podemos ofrecerle una doble por 80 euros la noche, desayuno incluido. El desayuno se sirve de 7 a 10. Un cordial saludo, Hotel Sol"
+
+7. El Sr. Mehta ha hecho una consulta. → **verdadero**
+8. La habitación individual está libre. → **falso** (ocupada)
+9. La doble cuesta 80 euros la noche. → **verdadero**
+10. El desayuno no está incluido. → **falso**
+11. El desayuno se sirve de 7 a 10. → **verdadero**
+12. El hotel se llama Hotel Sol. → **verdadero**
+
+### Tarea 3 — Newspaper article — verdadero / falso (7 puntos)
+
+> „Ayer se inauguró en la ciudad un nuevo centro de bicicletas. Los ciclistas pueden reparar sus bicicletas y comprar bicicletas usadas a buen precio. El centro cierra los lunes. Hasta finales de agosto hay un 20% de descuento en todas las reparaciones. Además, el primer sábado de cada mes la reparación es gratuita."
+
+13. El centro se inauguró ayer. → **verdadero**
+14. Solo se venden bicicletas nuevas. → **falso** (usadas)
+15. El centro cierra los lunes. → **verdadero**
+16. Hay 20% de descuento hasta agosto. → **verdadero**
+17. No se pueden reparar bicicletas. → **falso**
+18. La reparación es gratis el primer sábado de cada mes. → **verdadero**
+19. El centro está cerca del parque. → **falso** (no se dice / no mencionado)
+
+### Tarea 4 — Matching advertisements (6 puntos)
+
+> **Aviso 7:** Curso de italiano para principiantes — martes de 18 a 20, 120 €/mes.
+> **Aviso 8:** Vendo piano, muy buen estado, 400 €.
+> **Aviso 9:** Busco canguro — sábados por la tarde, 10 €/hora.
+> **Aviso 10:** Busco piso: 2 habitaciones, hasta 700 €, en el centro.
+
+20. Quiero aprender italiano. → **7**
+21. Vendo un instrumento musical. → **8**
+22. Necesito alguien para mi hijo el sábado. → **9**
+23. Busco una casa en el centro. → **10**
+
+> **Aviso 11:** Se vende coche, 5 años, poco uso, 8.500 €.
+> **Aviso 12:** Profesora de yoga — clases a domicilio.
+
+24. Me duele la espalda y quiero relajarme. → **12**
+25. Quiero comprar un coche de segunda mano. → **11**
+
+**Lectura total: 25 puntos**
+
+---
+
+## Prueba 2 — Comprensión auditiva (35 minutos · 25 puntos)
+
+> **Instructions (Hindi):** A2 सुनने में लंबे संवाद, रेडियो और फ़ोन संदेश हैं।
+>
+> **Instructions (Marathi):** A2 ऐकण्यात मोठे संवाद, रेडिओ व फोन संदेश आहेत.
+
+### Tarea 1 — Conversations — verdadero / falso (6 puntos)
+
+*Read each once.*
+
+> **Hombre:** Buenos días, quiero una habitación para dos noches.
+> **Mujer:** Muy bien. La individual cuesta 65 euros por noche, desayuno incluido.
+> **Hombre:** Perfecto, ¿el wifi es gratis?
+> **Mujer:** Sí, es gratis.
+
+1. El hombre quiere una habitación para tres noches. → **falso**
+2. La habitación cuesta 65 euros por noche. → **verdadero**
+3. El desayuno no está incluido. → **falso**
+4. El wifi cuesta dinero extra. → **falso**
+
+> **Mujer:** ¿Aprobaste el examen de ayer?
+> **Hombre:** ¡Sí! Saqué 72 puntos.
+> **Mujer:** ¡Felicidades! ¿Cuándo empieza tu curso nuevo?
+> **Hombre:** El lunes a las nueve.
+
+5. El hombre sacó 72 puntos. → **verdadero**
+6. El curso nuevo empieza el lunes a las nueve. → **verdadero**
+
+### Tarea 2 — Radio — choose A/B/C (6 puntos)
+
+*Read once.*
+
+> „Y ahora la información de tráfico: en la autopista A5, entre Fráncfort y Darmstadt, hay un accidente. Hay atascos largos. Por favor, conduzcan despacio. El autobús 42 circula hoy por otra ruta por obras."
+
+7. ¿Qué ha pasado en la autopista?
+    - A) Un concierto · B) **Un accidente** · C) Una fiesta → **B**
+8. ¿Qué deben hacer los conductores?
+    - A) Conducir rápido · B) **Conducir despacio** · C) Quedarse en casa → **B**
+9. ¿Por qué el autobús 42 va por otra ruta?
+    - A) Por el accidente · B) Por mal tiempo · C) **Por obras** → **C**
+
+> „Y ahora el tiempo para mañana: por la mañana nublado, por la tarde lloverá. Las temperaturas entre 12 y 18 grados."
+
+10. ¿Cómo estará el tiempo por la mañana?
+    - A) **Nublado** · B) Soleado · C) Con nieve → **A**
+11. ¿Cuándo lloverá?
+    - A) Por la mañana · B) **Por la tarde** · C) Por la noche → **B**
+12. ¿Qué temperaturas habrá?
+    - A) 8–12 grados · B) **12–18 grados** · C) 18–25 grados → **B**
+
+### Tarea 3 — Phone messages — choose A/B/C (7 puntos)
+
+*Read each twice.*
+
+> „Hola, Ana, aquí la señora Berger de la escuela de idiomas. Tu curso de español no empieza el miércoles, sino el jueves a las 6 de la tarde. Trae el libro, por favor. Adiós."
+
+13. ¿Quién llama?
+    - A) Ana · B) **La señora Berger** · C) Una amiga → **B**
+14. ¿Cuándo empieza el curso?
+    - A) El miércoles · B) El jueves a las 6 · C) **El jueves a las 6 de la tarde** → **C**
+15. ¿Qué tiene que traer Ana?
+    - A) **El libro** · B) El cuaderno · C) El pasaporte → **A**
+
+> „Buenos días, señor Shah, aquí la clínica del doctor Vega. Su cita del viernes a las 10 no es posible. ¿Puede venir el lunes a las 2? Llame al 912 555 777, por favor."
+
+16. La cita del señor Shah…
+    - A) Es el viernes a las 10 · B) **Ha cambiado** · C) Es el lunes a las 10 → **B**
+17. ¿Cuándo puede venir el señor Shah?
+    - A) El viernes a las 10 · B) **El lunes a las 2** · C) El lunes a las 10 → **B**
+18. ¿Qué número debe llamar?
+    - A) 912 555 888 · B) **912 555 777** · C) 912 777 555 → **B**
+19. ¿Cómo se llama la clínica? → this is A/B/C:
+    - A) Clínica Berger · B) Clínica del doctor Vega · C) **Clínica del doctor Vega** → **B** (key: doctor Vega)
+
+### Tarea 4 — Longer conversation — verdadero / falso (6 puntos)
+
+*Read twice.*
+
+> **Claudia:** Hola, Tom, ¿qué hiciste el fin de semana?
+> **Tom:** Fui a la montaña con mi familia. Salimos el sábado y volvimos el domingo.
+> **Claudia:** ¿Y qué tal el tiempo?
+> **Tom:** El sábado hizo muy buen tiempo, caminamos mucho. El domingo llovió, así que fuimos a la piscina.
+> **Claudia:** ¿Os gustó?
+> **Tom:** ¡Sí, mucho! La próxima vez vienes tú.
+
+20. Tom fue a la montaña con su familia. → **verdadero**
+21. Salieron el viernes. → **falso** (el sábado)
+22. El sábado llovió. → **falso** (el domingo llovió)
+23. El domingo fueron a la piscina. → **verdadero**
+24. Tom fue solo. → **falso** (con su familia)
+25. A Tom le gustó mucho. → **verdadero**
+
+**Auditiva total: 25 puntos**
+
+---
+
+## Prueba 3 — Expresión e interacción escritas (45 minutos · 25 puntos)
+
+> **Instructions (Hindi):** आप एक ईमेल/पत्र (~80–100 शब्द) और एक छोटा नोट (~40 शब्द) लिखेंगे।
+>
+> **Instructions (Marathi):** तुम्ही एक ईमेल/पत्र (~80–100 शब्द) आणि एक छोटी नोंद (~40 शब्द) लिहाल.
+
+### Tarea 1 — Letter/E-Mail, ~80–100 words (14 puntos)
+
+> Usted alquiló un piso por dos semanas, pero hay problemas. Escriba un correo al arrendador, el señor Koch.
+> (आपने दो हफ्ते के लिए मकान किराए पर लिया है, पर समस्याएँ हैं। मालिक को ईमेल लिखें। / तुम्ही दो आठवड्यांसाठी घर भाड्याने घेतले आहे, पण समस्या आहेत. मालकाला ईमेल लिहा.)
+> Include: **saludo** · **el problema (la ducha no funciona)** · **pida una solución** · **despedida**
+
+**Model answer (~90 words):**
+
+> „Estimado señor Koch: Le escribo porque tengo un problema con el piso que alquilé. La ducha no funciona desde el lunes y tampoco hay agua caliente. Llamé a la agencia, pero nadie responde. ¿Puede enviar a un técnico esta semana? Es muy importante para mí. También quiero saber si es posible bajar el precio por estos días. Muchas gracias por su ayuda. Un saludo, Ravi Kumar"
+
+### Tarea 2 — Note, ~40 words (11 puntos)
+
+> Su amiga Laura le escribe: „¡Hola! Te visito el fin de semana. Llego el sábado a las 2 en tren. ¿Hay estación en tu ciudad? ¿Dónde vives exactamente? ¡Podemos cocinar juntos! ¿Qué te gusta cocinar? ¡Hasta pronto!"
+> Respond: **di que sí hay estación** · **da tu dirección** · **di qué te gusta cocinar** · **haz una pregunta**
+
+**Model answer (~45 words):**
+
+> „Hola Laura, ¡qué alegría! Sí, hay estación. Vivo en la calle de los Pinos 12. Me gusta cocinar pasta, pero también cocina india. ¿Te gusta la comida picante? Te espero el sábado. Un abrazo, Riya"
+
+> Scoring: saludo 2 P · cada respuesta 2 P (3×2=6) · pregunta propia 3 P → 11 P.
+
+**Escritas total: 25 puntos**
+
+---
+
+## Prueba 4 — Expresión e interacción orales (12 minutos + 12 de preparación · 25 puntos)
+
+> **Instructions (Hindi):** परिचय, फ़ोटो वर्णन, विषय पर बातचीत और परीक्षक से संवाद।
+>
+> **Instructions (Marathi):** ओळख, फोटो वर्णन, विषयावर बोलणे व परीक्षकाशी संवाद.
+
+### Tarea 1 — Preséntese (6 puntos) — say for ~40 seconds
+
+Name, country, city, family, work/study, hobbies, plans.
+
+**Model answer:**
+
+> „Hola, me llamo Ravi Kumar. Soy de la India y vivo en Fráncfort desde hace dos años. Hablo hindi, maratí, inglés y español. Trabajo como ingeniero. En mi tiempo libre juego al fútbol y escucho música. El año que viene quiero visitar Madrid."
+
+### Tarea 2 — Describe a photo (7 puntos) — say for ~1.5 minutes
+
+Describe: **¿Quién? ¿Dónde? ¿Qué pasa? ¿Qué hay? ¿Qué ropa llevan?** (Who? Where? What is happening? What is there? What are they wearing?)
+
+**Sample:** a market scene.
+
+> „En la foto hay un mercado al aire libre. Hay muchas personas y puestos de fruta y verdura. Una mujer compra manzanas, el vendedor pesa la fruta. Hay tomates, plátanos y naranjas. La mujer lleva una camisa azul y una bolsa roja. Es un día soleado y la gente está contenta."
+
+### Tarea 3 — Topic: Mi trabajo / Mis estudios (6 puntos) — speak ~1.5 minutes
+
+> „Trabajo como ingeniero en una empresa pequeña. Empiezo a las nueve y termino a las seis. Trabajo con mi ordenador y con un equipo de cinco personas. El trabajo es interesante, pero a veces hay mucho estrés. Me gusta porque aprendo cosas nuevas cada día. El fin de semana descanso y hago deporte."
+
+### Tarea 4 — Dialogue with examiner (6 puntos)
+
+Answer fully and ask questions back:
+
+- ¿Qué hiciste el fin de semana pasado? → „Fui al parque con mis amigos y comimos en un restaurante."
+- ¿Qué vas a hacer mañana? → „Mañana tengo clase de español a las siete."
+- ¿Cuál es tu comida favorita? → „Me gusta mucho la comida india, sobre todo el arroz con pollo."
+- Ask the examiner: → „¿Usted también estudia idiomas?" / „¿Ha visitado la India alguna vez?"
+
+**Orales total: 25 puntos**
+
+---
+
+## Answer Key (उत्तर कुंजी / उत्तरे)
+
+### Lectura (25)
+
+| Q | A | Q | A | Q | A | Q | A |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 7 | verdadero | 13 | verdadero | 19 | falso |
+| 2 | 1 | 8 | falso | 14 | falso | 20 | 7 |
+| 3 | 3 | 9 | verdadero | 15 | verdadero | 21 | 8 |
+| 4 | 4 | 10 | falso | 16 | verdadero | 22 | 9 |
+| 5 | 6 | 11 | verdadero | 17 | falso | 23 | 10 |
+| 6 | 5 | 12 | verdadero | 18 | verdadero | 24 | 12 |
+| 25 | 11 | | | | | | |
+
+### Auditiva (25)
+
+| Q | A | Q | A | Q | A | Q | A |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | falso | 7 | B | 13 | B | 19 | B |
+| 2 | verdadero | 8 | B | 14 | C | 20 | verdadero |
+| 3 | falso | 9 | C | 15 | A | 21 | falso |
+| 4 | falso | 10 | A | 16 | B | 22 | falso |
+| 5 | verdadero | 11 | B | 17 | B | 23 | verdadero |
+| 6 | verdadero | 12 | B | 18 | B | 24 | falso |
+| 25 | verdadero | | | | | | |
+
+### Escritas (25)
+- Tarea 1 (14 P): saludo 2 · problema 4 · solución 4 · despedida 2 · extensión 2
+- Tarea 2 (11 P): saludo 2 · cada respuesta 2 P (3×2=6) · pregunta propia 3
+
+### Orales (25)
+- Tarea 1: 6 P · Tarea 2: 7 P (4 Ws + ropa + fluidez) · Tarea 3: 6 P · Tarea 4: 6 P
+
+## Scoring Sheet (गुणांकन / गुण पत्रक)
+
+| Group | Prueba | Max | My Score |
+| --- | --- | --- | --- |
+| 1 | Comprensión de lectura | 25 | |
+| 1 | Expresión e interacción escritas | 25 | |
+| | **Group 1 total — pass ≥ 30** | **50** | |
+| 2 | Comprensión auditiva | 25 | |
+| 2 | Expresión e interacción orales | 25 | |
+| | **Group 2 total — pass ≥ 30** | **50** | |
+
+> **Next step:** Revise with the [DELE Exam Guide](dele-exam-guide.md) — especially the exam vocabulary and pronunciation traps.

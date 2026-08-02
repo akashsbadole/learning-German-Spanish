@@ -185,6 +185,13 @@ Generate: Lesson Quiz, Chapter Quiz, Mid Test, Final Test, Speaking Test, Readin
 
 Separate workbook with: writing pages, translation, sentence creation, picture description, speaking practice, review tests.
 
+> **DELE exam files for this project:**
+> - [`dele-exam-guide.md`](dele-exam-guide.md) — DELE A1 & A2 structures, the 2-group scoring rule, sample questions, ~70 exam words, tips
+> - [`mock-test-a1.md`](mock-test-a1.md) — full DELE A1 mock (lectura 45 min, auditiva 20 min, escritas 25 min, orales 10 min) with answer key
+> - [`mock-test-a2.md`](mock-test-a2.md) — full DELE A2 mock (lectura 60 min, auditiva 35 min, escritas 45 min, orales 12 min) with answer key
+
+> **DELE A1/A2:** 4 pruebas — Comprensión de lectura, Comprensión auditiva, Expresión e interacción escritas, Expresión e interacción orales (25 points each). **Pass rule:** ≥30/50 in Group 1 (lectura + escritas) **AND** ≥30/50 in Group 2 (auditiva + orales) — both groups must pass!
+
 ### Phase 13 – Teacher Guide
 
 Create: lesson objectives, activities, games, pronunciation tips, common mistakes by Marathi/Hindi speakers, homework, assessment rubric.
@@ -721,15 +728,19 @@ Write 3 sentences introducing yourself: *Hola, me llamo ___ . Soy de India. Esto
 | 23. Present Tense | 201 |
 | 24. Revision | 215 |
 | 25. Final Test | 225 |
-| Answer Key (उत्तरे / उत्तर) | 233 |
-| Vocabulary Glossary (शब्दकोश) | 245 |
-| Index (निर्देशांक) | 280 |
+| **DELE Exam Preparation (परीक्षा तयारी / परीक्षा की तैयारी)** | |
+| DELE A1 & A2 Exam Guide (परीक्षा मार्गदर्शिका) | 233 |
+| DELE A1 Mock Test | 241 |
+| DELE A2 Mock Test | 251 |
+| Answer Key (उत्तरे / उत्तर) | 263 |
+| Vocabulary Glossary (शब्दकोश) | 275 |
+| Index (निर्देशांक) | 310 |
 
 ---
 
 ## 18. Image Gallery
 
-A starter set of **19 flat vector illustrations (SVG)** — simple colorful style, white background, educational. Open them in any browser or SVG viewer; they can later be recreated with AI image tools at higher quality.
+A starter set of **20 flat vector illustrations (SVG)** — simple colorful style, white background, educational. Open them in any browser or SVG viewer; they can later be recreated with AI image tools at higher quality.
 
 ### El Alfabeto Español — Spanish Alphabet Chart
 
@@ -802,6 +813,10 @@ A starter set of **19 flat vector illustrations (SVG)** — simple colorful styl
 ### El Cuerpo — Body Parts
 
 ![Body Parts](images/body-parts.svg)
+
+### El Examen — DELE A1 & A2 Exam
+
+![DELE Exam](images/exam.svg)
 
 ### Cover mock — Book Cover
 

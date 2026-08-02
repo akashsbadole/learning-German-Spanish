@@ -504,8 +504,12 @@ Write 3 sentences introducing yourself: *Hallo! Ich heiße ___ . Ich komme aus I
 | Prepositions (Präpositionen) | 251 |
 | Letter Writing (Brief) | 261 |
 | Email Writing (E-Mail) | 269 |
-| Practice Test (Übungstest) | 277 |
-| Answer Key (उत्तर / उत्तरे) | 289 |
+| **Exam Preparation (परीक्षा तयारी / परीक्षा की तैयारी)** | |
+| Goethe A1 & A2 Exam Guide (परीक्षा मार्गदर्शिका) | 277 |
+| Mock Test A1 (Start Deutsch 1) | 285 |
+| Mock Test A2 (Start Deutsch 2) | 295 |
+| Practice Test (Übungstest) | 305 |
+| Answer Key (उत्तर / उत्तरे) | 317 |
 | Vocabulary Glossary (शब्दकोश) | 301 |
 | Index (अनुक्रमणिका) | 320 |
 
@@ -544,6 +548,13 @@ For every chapter ask AI to explain: German · English meaning · Hindi translat
 ### Phase 8 – Revision prompt (Goethe mock test)
 
 > Create an A1 Goethe-style mock test. Reading, writing, listening practice script, speaking questions, answer key, scoring.
+
+> **Exam files for this project:**
+> - [`goethe-exam-guide.md`](goethe-exam-guide.md) — A1 & A2 structures, scoring, sample questions, ~80 exam words, tips
+> - [`mock-test-a1.md`](mock-test-a1.md) — full Goethe A1 mock (80 min, 100 points, pass 60) with answer key
+> - [`mock-test-a2.md`](mock-test-a2.md) — full Goethe A2 mock (105 min, 100 points, pass 60) with answer key
+
+> **A1 exam:** Hören 20 min (4 parts) · Lesen 25 min (5 parts) · Schreiben 20 min (form + ~30-word message) · Sprechen 15 min (introduction, spelling, questions, requests). **A2 exam:** Hören/Lesen/Schreiben 30 min each · Sprechen 15 min (introduction, topic card, questions, requests). Pass mark: 60/100.
 
 ### Phase 9 – Flashcards prompt
 
@@ -617,7 +628,7 @@ Format for: A4 PDF, 6×9 inch paperback, ePub, Kindle, color edition, black-and-
 
 ## 16. Image Gallery
 
-A starter set of **11 flat vector illustrations (SVG)** — simple colorful style, white background, educational. Open them in any browser or SVG viewer; they can later be recreated with AI image tools at higher quality.
+A starter set of **12 flat vector illustrations (SVG)** — simple colorful style, white background, educational. Open them in any browser or SVG viewer; they can later be recreated with AI image tools at higher quality.
 
 ### Das Alphabet — German Alphabet Chart
 
@@ -658,6 +669,10 @@ A starter set of **11 flat vector illustrations (SVG)** — simple colorful styl
 ### Die Verkehrsmittel — Transport
 
 ![Transport](images/transport.svg)
+
+### Die Prüfung — Goethe A1 & A2 Exam
+
+![Goethe Exam](images/exam.svg)
 
 ### Cover mock — Book Cover
 
