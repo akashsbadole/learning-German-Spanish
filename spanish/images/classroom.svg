@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect y="460" width="800" height="140" fill="#D7CCC8"/>
+
+  <text x="400" y="45" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#37474F">La Escuela</text>
+  <text x="400" y="72" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#78909C">शाळा | स्कूल</text>
+
+  <rect x="620" y="90" width="90" height="110" rx="8" fill="#B3E5FC"/>
+  <line x1="665" y1="90" x2="665" y2="200" stroke="#90CAF9" stroke-width="4"/>
+  <line x1="620" y1="145" x2="710" y2="145" stroke="#90CAF9" stroke-width="4"/>
+
+  <rect x="170" y="80" width="460" height="190" rx="10" fill="#2E7D32"/>
+  <rect x="185" y="95" width="430" height="160" rx="6" fill="#388E3C"/>
+  <rect x="420" y="160" width="120" height="18" rx="9" fill="#FFFFFF"/>
+  <rect x="420" y="190" width="160" height="18" rx="9" fill="#FFF59D"/>
+  <rect x="420" y="220" width="100" height="18" rx="9" fill="#FFCC80"/>
+
+  <g>
+    <circle cx="190" cy="250" r="22" fill="#FFCCBC"/>
+    <path d="M168,240 Q190,218 212,240 L212,252 Q190,262 168,252 Z" fill="#5D4037"/>
+    <rect x="163" y="272" width="54" height="100" rx="8" fill="#5C6BC0"/>
+    <rect x="150" y="285" width="14" height="60" rx="7" fill="#5C6BC0"/>
+    <rect x="216" y="285" width="14" height="60" rx="7" fill="#5C6BC0"/>
+    <rect x="172" y="372" width="18" height="50" fill="#263238"/>
+    <rect x="194" y="372" width="18" height="50" fill="#263238"/>
+    <rect x="156" y="295" width="70" height="45" rx="6" fill="#7986CB"/>
+  </g>
+
+  <rect x="310" y="390" width="210" height="22" rx="6" fill="#8D6E63"/>
+  <rect x="330" y="412" width="14" height="48" fill="#6D4C41"/>
+  <rect x="490" y="412" width="14" height="48" fill="#6D4C41"/>
+  <rect x="340" y="380" width="70" height="12" rx="4" fill="#A1887F"/>
+  <rect x="420" y="380" width="70" height="12" rx="4" fill="#A1887F"/>
+
+  <g>
+    <circle cx="370" cy="345" r="18" fill="#FFCCBC"/>
+    <rect x="350" y="363" width="40" height="45" rx="7" fill="#26A69A"/>
+    <rect x="358" y="408" width="12" height="40" fill="#263238"/>
+    <rect x="374" y="408" width="12" height="40" fill="#263238"/>
+  </g>
+  <g>
+    <circle cx="455" cy="340" r="18" fill="#FFCCBC"/>
+    <path d="M437,330 Q455,310 473,330 L473,342 Q455,352 437,342 Z" fill="#5D4037"/>
+    <rect x="435" y="358" width="40" height="45" rx="7" fill="#EF5350"/>
+    <rect x="443" y="403" width="12" height="40" fill="#263238"/>
+    <rect x="459" y="403" width="12" height="40" fill="#263238"/>
+  </g>
+
+  <rect x="565" y="390" width="210" height="22" rx="6" fill="#8D6E63"/>
+  <rect x="585" y="412" width="14" height="48" fill="#6D4C41"/>
+  <rect x="745" y="412" width="14" height="48" fill="#6D4C41"/>
+  <rect x="595" y="380" width="70" height="12" rx="4" fill="#A1887F"/>
+  <rect x="675" y="380" width="70" height="12" rx="4" fill="#A1887F"/>
+
+  <g>
+    <circle cx="630" cy="345" r="18" fill="#FFCCBC"/>
+    <rect x="610" y="363" width="40" height="45" rx="7" fill="#FFCA28"/>
+    <rect x="618" y="408" width="12" height="40" fill="#263238"/>
+    <rect x="634" y="408" width="12" height="40" fill="#263238"/>
+  </g>
+  <g>
+    <circle cx="715" cy="340" r="18" fill="#FFCCBC"/>
+    <rect x="695" y="358" width="40" height="45" rx="7" fill="#7E57C2"/>
+    <rect x="703" y="403" width="12" height="40" fill="#263238"/>
+    <rect x="719" y="403" width="12" height="40" fill="#263238"/>
+  </g>
+
+  <rect x="545" y="300" width="60" height="40" rx="5" fill="#EF6C00"/>
+  <rect x="555" y="310" width="40" height="5" rx="2" fill="#FFFFFF"/>
+  <rect x="555" y="320" width="30" height="5" rx="2" fill="#FFFFFF"/>
+  <rect x="255" y="300" width="60" height="40" rx="5" fill="#00897B"/>
+  <rect x="265" y="310" width="40" height="5" rx="2" fill="#FFFFFF"/>
+  <rect x="265" y="320" width="30" height="5" rx="2" fill="#FFFFFF"/>
+
+  <g font-family="sans-serif" font-size="20" font-weight="bold" fill="#37474F" text-anchor="middle">
+    <text x="190" y="455">la maestra</text>
+    <text x="455" y="500">la pizarra</text>
+    <text x="370" y="500">el estudiante</text>
+    <text x="630" y="500">el estudiante</text>
+    <text x="575" y="290" font-size="18">el libro</text>
+  </g>
+  <g stroke="#90A4AE" stroke-width="2" fill="none">
+    <line x1="455" y1="250" x2="455" y2="490"/>
+    <line x1="575" y1="300" x2="575" y2="285"/>
+  </g>
+</svg>

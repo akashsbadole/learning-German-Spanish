@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1050">
+  <rect width="800" height="1050" fill="#263238"/>
+  <rect width="800" height="1050" fill="url(#sky)" opacity="0.85"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A1A1A"/>
+      <stop offset="0.5" stop-color="#37474F"/>
+      <stop offset="1" stop-color="#546E7A"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="sans-serif" opacity="0.3" font-weight="bold" fill="#FFFFFF">
+    <text x="120" y="220" font-size="60">A</text>
+    <text x="230" y="170" font-size="70">B</text>
+    <text x="120" y="340" font-size="56">C</text>
+    <text x="640" y="190" font-size="64">D</text>
+    <text x="690" y="320" font-size="56">E</text>
+    <text x="160" y="460" font-size="60">F</text>
+    <text x="660" y="450" font-size="62">G</text>
+    <text x="730" y="530" font-size="52">H</text>
+    <text x="80" y="560" font-size="54">I</text>
+    <text x="600" y="140" font-size="46">K</text>
+    <text x="740" y="100" font-size="44">M</text>
+  </g>
+
+  <text x="400" y="320" text-anchor="middle" font-family="sans-serif" font-size="66" font-weight="bold" fill="#FFFFFF">German Made Easy</text>
+  <text x="400" y="375" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#FFCA28">for Marathi &amp; Hindi Speakers</text>
+
+  <rect x="300" y="405" width="200" height="52" rx="26" fill="#E53935"/>
+  <text x="400" y="440" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF">Goethe A1 → A2</text>
+
+  <text x="400" y="490" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#E0E0E0">जर्मन सोपे | जर्मन आसान</text>
+  <text x="400" y="525" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#B0BEC5">Grammatik · Wortschatz · Dialoge · Übungen · Audio</text>
+
+  <g>
+    <rect x="200" y="560" width="400" height="60" rx="30" fill="#FFFFFF"/>
+    <text x="400" y="595" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#263238">Hallo · नमस्ते · नमस्कार</text>
+  </g>
+
+  <g>
+    <rect x="210" y="660" width="180" height="46" rx="23" fill="#37474F"/>
+    <text x="300" y="690" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#FFCA28">der Tisch</text>
+    <rect x="410" y="660" width="180" height="46" rx="23" fill="#37474F"/>
+    <text x="500" y="690" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#FFCA28">die Schule</text>
+  </g>
+
+  <text x="400" y="780" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#B0BEC5">Deutsch · जर्मन · German</text>
+
+  <g transform="translate(400,860)">
+    <rect x="-160" y="0" width="44" height="70" rx="4" fill="#263238"/>
+    <rect x="-106" y="0" width="44" height="70" rx="4" fill="#9E9E9E"/>
+    <rect x="-52" y="0" width="44" height="70" rx="4" fill="#FFCA28"/>
+    <rect x="2" y="0" width="44" height="70" rx="4" fill="#FF7043"/>
+    <rect x="56" y="0" width="44" height="70" rx="4" fill="#FFFFFF"/>
+    <rect x="56" y="0" width="44" height="70" fill="#E53935"/>
+    <rect x="56" y="0" width="44" height="70" fill="#FFCA28"/>
+    <rect x="56" y="0" width="44" height="70" fill="#388E3C"/>
+    <rect x="110" y="0" width="44" height="70" rx="4" fill="#66BB6A"/>
+  </g>
+  <text x="400" y="965" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#E0E0E0">Deutschland  ·  भारत India</text>
+
+  <rect x="150" y="985" width="500" height="2" fill="#B0BEC5"/>
+  <text x="400" y="1020" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#FFFFFF">By [Author Name] · First Edition</text>
+  <text x="400" y="1045" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#B0BEC5">Goethe A1 · A2  |  Student Book + Workbook</text>
+</svg>

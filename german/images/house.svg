@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <text x="400" y="48" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#37474F">Das Haus</text>
+  <text x="400" y="74" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#78909C">घर | घर</text>
+
+  <polygon points="60,120 400,58 740,120" fill="#37474F"/>
+  <rect x="60" y="120" width="680" height="380" fill="#FFF3E0" stroke="#8D6E63" stroke-width="4"/>
+  <rect x="60" y="120" width="680" height="380" fill="none" stroke="#8D6E63" stroke-width="4"/>
+
+  <rect x="68" y="128" width="324" height="174" fill="#FFF3E0"/>
+  <rect x="408" y="128" width="324" height="174" fill="#E8F5E9"/>
+  <rect x="68" y="318" width="324" height="174" fill="#E3F2FD"/>
+  <rect x="408" y="318" width="324" height="174" fill="#F3E5F5"/>
+  <line x1="400" y1="128" x2="400" y2="492" stroke="#8D6E63" stroke-width="4"/>
+  <line x1="68" y1="310" x2="732" y2="310" stroke="#8D6E63" stroke-width="4"/>
+
+  <g>
+    <rect x="110" y="190" width="210" height="18" rx="6" fill="#8D6E63"/>
+    <rect x="110" y="208" width="210" height="52" rx="12" fill="#8D6E63"/>
+    <rect x="125" y="196" width="75" height="58" rx="10" fill="#A1887F"/>
+    <rect x="230" y="196" width="75" height="58" rx="10" fill="#BCAAA4"/>
+    <rect x="330" y="170" width="52" height="42" rx="6" fill="#37474F"/>
+    <rect x="356" y="212" width="6" height="42" fill="#546E7A"/>
+    <text x="230" y="290" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#5D4037">das Wohnzimmer</text>
+    <text x="230" y="310" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8D6E63">दिवाणखाना</text>
+  </g>
+
+  <g>
+    <rect x="600" y="150" width="78" height="140" rx="10" fill="#B0BEC5"/>
+    <rect x="648" y="240" width="10" height="28" rx="4" fill="#90A4AE"/>
+    <rect x="440" y="205" width="120" height="16" rx="6" fill="#90A4AE"/>
+    <circle cx="465" cy="200" r="16" fill="#455A64"/>
+    <circle cx="515" cy="200" r="16" fill="#455A64"/>
+    <rect x="500" y="221" width="8" height="14" rx="3" fill="#78909C"/>
+    <rect x="455" y="221" width="8" height="14" rx="3" fill="#78909C"/>
+    <text x="570" y="290" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2E7D32">die Küche</text>
+    <text x="570" y="310" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#558B2F">रसोई</text>
+  </g>
+
+  <g>
+    <rect x="95" y="380" width="250" height="18" rx="8" fill="#1E88E5"/>
+    <rect x="95" y="398" width="250" height="72" rx="10" fill="#42A5F5"/>
+    <rect x="108" y="386" width="55" height="34" rx="8" fill="#FFFFFF"/>
+    <rect x="95" y="398" width="150" height="72" rx="10" fill="#1E88E5"/>
+    <circle cx="345" cy="440" r="6" fill="#FFCA28"/>
+    <rect x="341" y="446" width="8" height="30" fill="#78909C"/>
+    <text x="230" y="482" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1565C0">das Schlafzimmer</text>
+    <text x="230" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#42A5F5">शयनकक्ष</text>
+  </g>
+
+  <g>
+    <rect x="440" y="400" width="230" height="58" rx="26" fill="#4FC3F7" stroke="#0288D1" stroke-width="4"/>
+    <rect x="665" y="388" width="16" height="10" rx="4" fill="#0288D1"/>
+    <path d="M640,388 L640,416 Q640,428 656,428 L660,428 L660,412 Q660,404 648,404 L648,388 Z" fill="#0288D1"/>
+    <rect x="470" y="356" width="46" height="40" rx="8" fill="#B3E5FC" stroke="#90CAF9" stroke-width="3"/>
+    <text x="555" y="482" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#6A1B9A">das Bad</text>
+    <text x="555" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#AB47BC">बाथरूम</text>
+  </g>
+</svg>

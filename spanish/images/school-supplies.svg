@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <text x="400" y="44" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#37474F">Los Materiales Escolares</text>
+  <text x="400" y="70" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#78909C">शाळेचे साहित्य | स्कूल का सामान</text>
+
+  <g font-family="sans-serif" text-anchor="middle">
+    <g>
+      <rect x="10" y="90" width="180" height="215" rx="12" fill="#FCE4EC"/>
+      <rect x="64" y="156" width="72" height="68" rx="6" fill="#EF5350"/>
+      <rect x="64" y="156" width="10" height="68" rx="4" fill="#C62828"/>
+      <line x1="82" y1="168" x2="128" y2="168" stroke="#FFCDD2" stroke-width="3"/>
+      <line x1="82" y1="180" x2="128" y2="180" stroke="#FFCDD2" stroke-width="3"/>
+      <line x1="82" y1="192" x2="122" y2="192" stroke="#FFCDD2" stroke-width="3"/>
+      <text x="100" y="260" font-size="20" font-weight="bold" fill="#37474F">el libro</text>
+      <text x="100" y="283" font-size="15" fill="#78909C">किताब</text>
+    </g>
+    <g>
+      <rect x="205" y="90" width="180" height="215" rx="12" fill="#E1F5FE"/>
+      <rect x="261" y="156" width="68" height="68" rx="6" fill="#4FC3F7"/>
+      <circle cx="257" cy="172" r="3" fill="#0288D1"/>
+      <circle cx="257" cy="190" r="3" fill="#0288D1"/>
+      <circle cx="257" cy="208" r="3" fill="#0288D1"/>
+      <line x1="269" y1="168" x2="321" y2="168" stroke="#E1F5FE" stroke-width="3"/>
+      <line x1="269" y1="180" x2="321" y2="180" stroke="#E1F5FE" stroke-width="3"/>
+      <line x1="269" y1="192" x2="315" y2="192" stroke="#E1F5FE" stroke-width="3"/>
+      <text x="295" y="260" font-size="20" font-weight="bold" fill="#37474F">el cuaderno</text>
+      <text x="295" y="283" font-size="15" fill="#78909C">कॉपी</text>
+    </g>
+    <g>
+      <rect x="400" y="90" width="180" height="215" rx="12" fill="#FFFDE7"/>
+      <rect x="447" y="182" width="88" height="16" rx="3" fill="#FDD835"/>
+      <polygon points="535,182 535,198 551,190" fill="#FFB74D"/>
+      <rect x="439" y="182" width="8" height="16" fill="#EF9A9A"/>
+      <rect x="447" y="182" width="6" height="16" fill="#78909C"/>
+      <text x="490" y="260" font-size="20" font-weight="bold" fill="#37474F">el lápiz</text>
+      <text x="490" y="283" font-size="15" fill="#78909C">पेंसिल</text>
+    </g>
+    <g>
+      <rect x="595" y="90" width="180" height="215" rx="12" fill="#E8EAF6"/>
+      <rect x="648" y="186" width="88" height="8" rx="4" fill="#1565C0"/>
+      <polygon points="736,186 736,194 744,190" fill="#37474F"/>
+      <rect x="656" y="178" width="5" height="16" rx="2" fill="#0D47A1"/>
+      <text x="685" y="260" font-size="20" font-weight="bold" fill="#37474F">el bolígrafo</text>
+      <text x="685" y="283" font-size="15" fill="#78909C">पेन</text>
+    </g>
+
+    <g>
+      <rect x="10" y="325" width="180" height="215" rx="12" fill="#FBE9E7"/>
+      <rect x="60" y="382" width="80" height="82" rx="12" fill="#FF7043"/>
+      <rect x="60" y="382" width="80" height="24" rx="12" fill="#F4511E"/>
+      <rect x="72" y="412" width="56" height="38" rx="8" fill="#FF8A65"/>
+      <rect x="52" y="428" width="10" height="34" rx="5" fill="#F4511E"/>
+      <rect x="138" y="428" width="10" height="34" rx="5" fill="#F4511E"/>
+      <text x="100" y="505" font-size="20" font-weight="bold" fill="#37474F">la mochila</text>
+      <text x="100" y="528" font-size="15" fill="#78909C">बस्ता</text>
+    </g>
+    <g>
+      <rect x="205" y="325" width="180" height="215" rx="12" fill="#ECEFF1"/>
+      <rect x="262" y="395" width="42" height="11" rx="5" fill="#90A4AE" transform="rotate(-35 283 400)"/>
+      <rect x="262" y="405" width="42" height="11" rx="5" fill="#90A4AE" transform="rotate(35 283 410)"/>
+      <circle cx="250" cy="388" r="9" fill="none" stroke="#546E7A" stroke-width="5"/>
+      <circle cx="250" cy="432" r="9" fill="none" stroke="#546E7A" stroke-width="5"/>
+      <text x="295" y="505" font-size="20" font-weight="bold" fill="#37474F">las tijeras</text>
+      <text x="295" y="528" font-size="15" fill="#78909C">कैंची</text>
+    </g>
+    <g>
+      <rect x="400" y="325" width="180" height="215" rx="12" fill="#F3E5F5"/>
+      <rect x="452" y="400" width="76" height="26" rx="8" fill="#F48FB1"/>
+      <rect x="482" y="400" width="20" height="26" fill="#FFFFFF" opacity="0.85"/>
+      <text x="490" y="505" font-size="20" font-weight="bold" fill="#37474F">la goma</text>
+      <text x="490" y="528" font-size="15" fill="#78909C">रबर</text>
+    </g>
+    <g>
+      <rect x="595" y="325" width="180" height="215" rx="12" fill="#FFFDE7"/>
+      <rect x="632" y="396" width="110" height="18" rx="3" fill="#FFF59D" stroke="#F9A825" stroke-width="2"/>
+      <line x1="644" y1="396" x2="644" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="656" y1="396" x2="656" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="668" y1="396" x2="668" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="680" y1="396" x2="680" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="692" y1="396" x2="692" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="704" y1="396" x2="704" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="716" y1="396" x2="716" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <line x1="728" y1="396" x2="728" y2="404" stroke="#F9A825" stroke-width="2"/>
+      <text x="685" y="505" font-size="20" font-weight="bold" fill="#37474F">la regla</text>
+      <text x="685" y="528" font-size="15" fill="#78909C">स्केल</text>
+    </g>
+  </g>
+</svg>

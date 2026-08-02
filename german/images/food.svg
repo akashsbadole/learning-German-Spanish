@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect y="460" width="800" height="140" fill="#FFECB3"/>
+
+  <text x="400" y="48" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#37474F">Das Essen</text>
+  <text x="400" y="76" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#78909C">जेवण | खाना</text>
+
+  <rect x="120" y="330" width="300" height="18" rx="6" fill="#A1887F"/>
+  <rect x="140" y="348" width="14" height="110" fill="#6D4C41"/>
+  <rect x="385" y="348" width="14" height="110" fill="#6D4C41"/>
+
+  <circle cx="270" cy="280" r="95" fill="#ECEFF1" stroke="#B0BEC5" stroke-width="4"/>
+  <circle cx="270" cy="280" r="75" fill="#FFFFFF" stroke="#CFD8DC" stroke-width="2"/>
+
+  <g>
+    <rect x="240" y="248" width="55" height="26" rx="7" fill="#D7A86E"/>
+    <path d="M240,248 Q267,230 295,248 Z" fill="#C9974F"/>
+    <line x1="252" y1="255" x2="252" y2="270" stroke="#A97C3F" stroke-width="2"/>
+    <line x1="270" y1="252" x2="270" y2="270" stroke="#A97C3F" stroke-width="2"/>
+    <line x1="285" y1="255" x2="285" y2="270" stroke="#A97C3F" stroke-width="2"/>
+  </g>
+  <circle cx="215" cy="252" r="24" fill="#E53935"/>
+  <path d="M215,228 Q225,210 238,219 Q228,232 215,228 Z" fill="#66BB6A"/>
+  <circle cx="330" cy="255" r="21" fill="#FB8C00"/>
+  <ellipse cx="330" cy="255" rx="18" ry="13" fill="#FB8C00"/>
+
+  <ellipse cx="260" cy="305" rx="22" ry="16" fill="#FAFAFA" stroke="#B0BEC5" stroke-width="2"/>
+  <ellipse cx="266" cy="302" rx="13" ry="8" fill="#FFD54F"/>
+
+  <g>
+    <rect x="420" y="230" width="90" height="120" rx="8" fill="#ECEFF1"/>
+    <rect x="430" y="245" width="70" height="30" rx="5" fill="#FFFDE7"/>
+    <text x="465" y="265" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1565C0">MILCH</text>
+    <path d="M420,230 L450,245 L480,230 Z" fill="#B0BEC5"/>
+  </g>
+
+  <g>
+    <rect x="555" y="235" width="55" height="85" rx="6" fill="#FFD54F"/>
+    <rect x="560" y="228" width="45" height="12" rx="5" fill="#F9A825"/>
+    <circle cx="582" cy="300" r="4" fill="#FFF59D"/>
+  </g>
+
+  <g>
+    <ellipse cx="600" cy="370" rx="25" ry="19" fill="#FAFAFA" stroke="#B0BEC5" stroke-width="2"/>
+    <ellipse cx="630" cy="375" rx="21" ry="16" fill="#FAFAFA" stroke="#B0BEC5" stroke-width="2"/>
+    <ellipse cx="605" cy="367" rx="13" ry="8" fill="#FFD54F"/>
+    <ellipse cx="628" cy="371" rx="11" ry="7" fill="#FFD54F"/>
+  </g>
+
+  <rect x="450" y="385" width="70" height="26" rx="6" fill="#FDD835"/>
+  <rect x="425" y="400" width="35" height="22" rx="5" fill="#FFF59D"/>
+  <rect x="510" y="400" width="35" height="22" rx="5" fill="#FFF59D"/>
+
+  <g font-family="sans-serif" font-size="20" font-weight="bold" fill="#37474F" text-anchor="middle">
+    <text x="270" y="515">das Brot</text>
+    <text x="215" y="425">der Apfel</text>
+    <text x="465" y="410">die Milch</text>
+    <text x="582" y="370">der Saft</text>
+    <text x="612" y="470">das Ei</text>
+    <text x="485" y="470" font-size="17">der Käse</text>
+  </g>
+  <g stroke="#90A4AE" stroke-width="2" fill="none">
+    <line x1="215" y1="410" x2="215" y2="420"/>
+    <line x1="465" y1="398" x2="465" y2="405"/>
+    <line x1="582" y1="362" x2="582" y2="365"/>
+    <line x1="612" y1="455" x2="612" y2="465"/>
+    <line x1="485" y1="455" x2="480" y2="415"/>
+  </g>
+  <g font-family="sans-serif" font-size="14" fill="#78909C" text-anchor="middle">
+    <text x="270" y="538">ब्रोट</text>
+    <text x="215" y="443">आप्फेल</text>
+    <text x="465" y="428">मिल्ख</text>
+    <text x="582" y="388">ज़ाफ्ट</text>
+    <text x="612" y="488">आइ</text>
+    <text x="485" y="488">केज़े</text>
+  </g>
+</svg>

@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 920">
+  <rect width="1000" height="920" fill="#ffffff"/>
+  <text x="500" y="52" text-anchor="middle" font-family="sans-serif" font-size="36" font-weight="bold" fill="#37474F">El Alfabeto Español</text>
+  <text x="500" y="88" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#78909C">स्पॅनिश वर्णमाला | स्पेनिश वर्णमाला — 27 letters</text>
+
+  <g font-family="sans-serif" text-anchor="middle">
+    <g>
+      <rect x="15" y="110" width="150" height="140" rx="12" fill="#FFF3E0"/>
+      <text x="90" y="168" font-size="52" font-weight="bold" fill="#37474F">A</text>
+      <text x="90" y="212" font-size="22" fill="#546E7A">a</text>
+      <text x="90" y="238" font-size="18" fill="#78909C">आ</text>
+    </g>
+    <g>
+      <rect x="179" y="110" width="150" height="140" rx="12" fill="#E3F2FD"/>
+      <text x="254" y="168" font-size="52" font-weight="bold" fill="#37474F">B</text>
+      <text x="254" y="212" font-size="22" fill="#546E7A">be</text>
+      <text x="254" y="238" font-size="18" fill="#78909C">बे</text>
+    </g>
+    <g>
+      <rect x="343" y="110" width="150" height="140" rx="12" fill="#F3E5F5"/>
+      <text x="418" y="168" font-size="52" font-weight="bold" fill="#37474F">C</text>
+      <text x="418" y="212" font-size="22" fill="#546E7A">ce</text>
+      <text x="418" y="238" font-size="18" fill="#78909C">से</text>
+    </g>
+    <g>
+      <rect x="507" y="110" width="150" height="140" rx="12" fill="#E8F5E9"/>
+      <text x="582" y="168" font-size="52" font-weight="bold" fill="#37474F">D</text>
+      <text x="582" y="212" font-size="22" fill="#546E7A">de</text>
+      <text x="582" y="238" font-size="18" fill="#78909C">दे</text>
+    </g>
+    <g>
+      <rect x="671" y="110" width="150" height="140" rx="12" fill="#FFFDE7"/>
+      <text x="746" y="168" font-size="52" font-weight="bold" fill="#37474F">E</text>
+      <text x="746" y="212" font-size="22" fill="#546E7A">e</text>
+      <text x="746" y="238" font-size="18" fill="#78909C">ए</text>
+    </g>
+    <g>
+      <rect x="835" y="110" width="150" height="140" rx="12" fill="#FBE9E7"/>
+      <text x="910" y="168" font-size="52" font-weight="bold" fill="#37474F">F</text>
+      <text x="910" y="212" font-size="22" fill="#546E7A">efe</text>
+      <text x="910" y="238" font-size="18" fill="#78909C">एफे</text>
+    </g>
+
+    <g>
+      <rect x="15" y="264" width="150" height="140" rx="12" fill="#E3F2FD"/>
+      <text x="90" y="322" font-size="52" font-weight="bold" fill="#37474F">G</text>
+      <text x="90" y="366" font-size="22" fill="#546E7A">ge</text>
+      <text x="90" y="392" font-size="18" fill="#78909C">खे</text>
+    </g>
+    <g>
+      <rect x="179" y="264" width="150" height="140" rx="12" fill="#FFF3E0"/>
+      <text x="254" y="322" font-size="52" font-weight="bold" fill="#37474F">H</text>
+      <text x="254" y="366" font-size="22" fill="#546E7A">hache</text>
+      <text x="254" y="392" font-size="18" fill="#78909C">आचे</text>
+    </g>
+    <g>
+      <rect x="343" y="264" width="150" height="140" rx="12" fill="#E8F5E9"/>
+      <text x="418" y="322" font-size="52" font-weight="bold" fill="#37474F">I</text>
+      <text x="418" y="366" font-size="22" fill="#546E7A">i</text>
+      <text x="418" y="392" font-size="18" fill="#78909C">इ</text>
+    </g>
+    <g>
+      <rect x="507" y="264" width="150" height="140" rx="12" fill="#FBE9E7"/>
+      <text x="582" y="322" font-size="52" font-weight="bold" fill="#37474F">J</text>
+      <text x="582" y="366" font-size="22" fill="#546E7A">jota</text>
+      <text x="582" y="392" font-size="18" fill="#78909C">ख़ोटा</text>
+    </g>
+    <g>
+      <rect x="671" y="264" width="150" height="140" rx="12" fill="#F3E5F5"/>
+      <text x="746" y="322" font-size="52" font-weight="bold" fill="#37474F">K</text>
+      <text x="746" y="366" font-size="22" fill="#546E7A">ka</text>
+      <text x="746" y="392" font-size="18" fill="#78909C">का</text>
+    </g>
+    <g>
+      <rect x="835" y="264" width="150" height="140" rx="12" fill="#FFFDE7"/>
+      <text x="910" y="322" font-size="52" font-weight="bold" fill="#37474F">L</text>
+      <text x="910" y="366" font-size="22" fill="#546E7A">ele</text>
+      <text x="910" y="392" font-size="18" fill="#78909C">एले</text>
+    </g>
+
+    <g>
+      <rect x="15" y="418" width="150" height="140" rx="12" fill="#FBE9E7"/>
+      <text x="90" y="476" font-size="52" font-weight="bold" fill="#37474F">M</text>
+      <text x="90" y="520" font-size="22" fill="#546E7A">eme</text>
+      <text x="90" y="546" font-size="18" fill="#78909C">एमे</text>
+    </g>
+    <g>
+      <rect x="179" y="418" width="150" height="140" rx="12" fill="#FFFDE7"/>
+      <text x="254" y="476" font-size="52" font-weight="bold" fill="#37474F">N</text>
+      <text x="254" y="520" font-size="22" fill="#546E7A">ene</text>
+      <text x="254" y="546" font-size="18" fill="#78909C">एने</text>
+    </g>
+    <g>
+      <rect x="343" y="418" width="150" height="140" rx="12" fill="#E3F2FD"/>
+      <text x="418" y="476" font-size="52" font-weight="bold" fill="#37474F">Ñ</text>
+      <text x="418" y="520" font-size="22" fill="#546E7A">eñe</text>
+      <text x="418" y="546" font-size="18" fill="#78909C">एन्ये</text>
+    </g>
+    <g>
+      <rect x="507" y="418" width="150" height="140" rx="12" fill="#FFF3E0"/>
+      <text x="582" y="476" font-size="52" font-weight="bold" fill="#37474F">O</text>
+      <text x="582" y="520" font-size="22" fill="#546E7A">o</text>
+      <text x="582" y="546" font-size="18" fill="#78909C">ओ</text>
+    </g>
+    <g>
+      <rect x="671" y="418" width="150" height="140" rx="12" fill="#E8F5E9"/>
+      <text x="746" y="476" font-size="52" font-weight="bold" fill="#37474F">P</text>
+      <text x="746" y="520" font-size="22" fill="#546E7A">pe</text>
+      <text x="746" y="546" font-size="18" fill="#78909C">पे</text>
+    </g>
+    <g>
+      <rect x="835" y="418" width="150" height="140" rx="12" fill="#F3E5F5"/>
+      <text x="910" y="476" font-size="52" font-weight="bold" fill="#37474F">Q</text>
+      <text x="910" y="520" font-size="22" fill="#546E7A">cu</text>
+      <text x="910" y="546" font-size="18" fill="#78909C">कू</text>
+    </g>
+
+    <g>
+      <rect x="15" y="572" width="150" height="140" rx="12" fill="#FFFDE7"/>
+      <text x="90" y="630" font-size="52" font-weight="bold" fill="#37474F">R</text>
+      <text x="90" y="674" font-size="22" fill="#546E7A">erre</text>
+      <text x="90" y="700" font-size="18" fill="#78909C">एरे</text>
+    </g>
+    <g>
+      <rect x="179" y="572" width="150" height="140" rx="12" fill="#F3E5F5"/>
+      <text x="254" y="630" font-size="52" font-weight="bold" fill="#37474F">S</text>
+      <text x="254" y="674" font-size="22" fill="#546E7A">ese</text>
+      <text x="254" y="700" font-size="18" fill="#78909C">एसे</text>
+    </g>
+    <g>
+      <rect x="343" y="572" width="150" height="140" rx="12" fill="#FBE9E7"/>
+      <text x="418" y="630" font-size="52" font-weight="bold" fill="#37474F">T</text>
+      <text x="418" y="674" font-size="22" fill="#546E7A">te</text>
+      <text x="418" y="700" font-size="18" fill="#78909C">ते</text>
+    </g>
+    <g>
+      <rect x="507" y="572" width="150" height="140" rx="12" fill="#E3F2FD"/>
+      <text x="582" y="630" font-size="52" font-weight="bold" fill="#37474F">U</text>
+      <text x="582" y="674" font-size="22" fill="#546E7A">u</text>
+      <text x="582" y="700" font-size="18" fill="#78909C">उ</text>
+    </g>
+    <g>
+      <rect x="671" y="572" width="150" height="140" rx="12" fill="#FFF3E0"/>
+      <text x="746" y="630" font-size="52" font-weight="bold" fill="#37474F">V</text>
+      <text x="746" y="674" font-size="22" fill="#546E7A">uve</text>
+      <text x="746" y="700" font-size="18" fill="#78909C">उवे</text>
+    </g>
+    <g>
+      <rect x="835" y="572" width="150" height="140" rx="12" fill="#E8F5E9"/>
+      <text x="910" y="630" font-size="46" font-weight="bold" fill="#37474F">W</text>
+      <text x="910" y="674" font-size="18" fill="#546E7A">uve doble</text>
+      <text x="910" y="700" font-size="16" fill="#78909C">उवे दोबले</text>
+    </g>
+
+    <g>
+      <rect x="15" y="726" width="150" height="140" rx="12" fill="#E8F5E9"/>
+      <text x="90" y="784" font-size="52" font-weight="bold" fill="#37474F">X</text>
+      <text x="90" y="828" font-size="22" fill="#546E7A">equis</text>
+      <text x="90" y="854" font-size="18" fill="#78909C">एकीस</text>
+    </g>
+    <g>
+      <rect x="179" y="726" width="150" height="140" rx="12" fill="#FBE9E7"/>
+      <text x="254" y="784" font-size="52" font-weight="bold" fill="#37474F">Y</text>
+      <text x="254" y="828" font-size="22" fill="#546E7A">ye</text>
+      <text x="254" y="854" font-size="18" fill="#78909C">ये</text>
+    </g>
+    <g>
+      <rect x="343" y="726" width="150" height="140" rx="12" fill="#FFF3E0"/>
+      <text x="418" y="784" font-size="52" font-weight="bold" fill="#37474F">Z</text>
+      <text x="418" y="828" font-size="22" fill="#546E7A">zeta</text>
+      <text x="418" y="854" font-size="18" fill="#78909C">सेता</text>
+    </g>
+    <g>
+      <rect x="507" y="726" width="150" height="140" rx="12" fill="#FFFDE7"/>
+      <text x="582" y="784" font-size="46" font-weight="bold" fill="#D84315">RR</text>
+      <text x="582" y="828" font-size="18" fill="#546E7A">erre doble</text>
+      <text x="582" y="854" font-size="16" fill="#78909C">दोबले एरे</text>
+    </g>
+    <g>
+      <rect x="671" y="726" width="150" height="140" rx="12" fill="#F3E5F5"/>
+      <text x="746" y="784" font-size="46" font-weight="bold" fill="#6A1B9A">LL</text>
+      <text x="746" y="828" font-size="22" fill="#546E7A">elle</text>
+      <text x="746" y="854" font-size="18" fill="#78909C">एये</text>
+    </g>
+    <g>
+      <rect x="835" y="726" width="150" height="140" rx="12" fill="#E3F2FD"/>
+      <text x="910" y="784" font-size="46" font-weight="bold" fill="#1565C0">CH</text>
+      <text x="910" y="828" font-size="22" fill="#546E7A">che</text>
+      <text x="910" y="854" font-size="18" fill="#78909C">चे</text>
+    </g>
+  </g>
+</svg>

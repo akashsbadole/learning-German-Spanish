@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1050">
+  <rect width="800" height="1050" fill="#1565C0"/>
+  <rect width="800" height="1050" fill="url(#sky)" opacity="0.6"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D47A1"/>
+      <stop offset="1" stop-color="#42A5F5"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="100" cy="110" r="34" fill="#FFD54F"/>
+  <g stroke="#F9A825" stroke-width="5" stroke-linecap="round">
+    <line x1="100" y1="62" x2="100" y2="48"/>
+    <line x1="140" y1="85" x2="152" y2="76"/>
+    <line x1="148" y1="122" x2="162" y2="125"/>
+    <line x1="60" y1="85" x2="48" y2="76"/>
+    <line x1="52" y1="122" x2="38" y2="125"/>
+  </g>
+
+  <g font-family="sans-serif" opacity="0.35" font-weight="bold" fill="#FFFFFF">
+    <text x="120" y="220" font-size="60">A</text>
+    <text x="210" y="180" font-size="70">B</text>
+    <text x="330" y="240" font-size="56">C</text>
+    <text x="600" y="200" font-size="64">D</text>
+    <text x="680" y="300" font-size="52">E</text>
+    <text x="90" y="350" font-size="56">F</text>
+    <text x="180" y="430" font-size="62">G</text>
+    <text x="640" y="440" font-size="60">H</text>
+    <text x="720" y="520" font-size="50">I</text>
+    <text x="60" y="560" font-size="54">J</text>
+    <text x="560" y="140" font-size="48">K</text>
+    <text x="740" y="90" font-size="44">L</text>
+  </g>
+
+  <text x="400" y="330" text-anchor="middle" font-family="sans-serif" font-size="66" font-weight="bold" fill="#FFFFFF">Spanish Made Easy</text>
+  <text x="400" y="385" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#FFD54F">for Marathi &amp; Hindi Speakers</text>
+
+  <rect x="300" y="415" width="200" height="52" rx="26" fill="#FF7043"/>
+  <text x="400" y="450" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF">Level A1 → A2</text>
+
+  <text x="400" y="500" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#E3F2FD">स्पॅनिश सोपे | स्पेनिश आसान</text>
+  <text x="400" y="535" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#BBDEFB">Gramática · Vocabulario · Diálogos · Ejercicios · Audio</text>
+
+  <g>
+    <rect x="200" y="570" width="400" height="60" rx="30" fill="#FFFFFF"/>
+    <text x="400" y="605" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#1565C0">Hola · नमस्कार · नमस्ते</text>
+  </g>
+
+  <g>
+    <rect x="210" y="670" width="180" height="46" rx="23" fill="#263238"/>
+    <text x="300" y="700" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">el libro</text>
+    <rect x="410" y="670" width="180" height="46" rx="23" fill="#263238"/>
+    <text x="500" y="700" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">la casa</text>
+  </g>
+
+  <text x="400" y="790" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#BBDEFB">इस्पानोल · Español · स्पॅनिश</text>
+
+  <g transform="translate(400,860)">
+    <rect x="-160" y="0" width="44" height="70" rx="4" fill="#FFCC80"/>
+    <rect x="-160" y="0" width="44" height="23" fill="#C62828"/>
+    <rect x="-160" y="47" width="44" height="23" fill="#C62828"/>
+    <rect x="-106" y="0" width="44" height="70" rx="4" fill="#FFB74D"/>
+    <rect x="-106" y="0" width="44" height="23" fill="#EF6C00"/>
+    <rect x="-106" y="47" width="44" height="23" fill="#EF6C00"/>
+    <rect x="-52" y="0" width="44" height="70" rx="4" fill="#FFFFFF"/>
+    <rect x="-52" y="0" width="44" height="70" fill="#E53935"/>
+    <rect x="-52" y="0" width="44" height="70" fill="#FFCA28"/>
+    <rect x="-52" y="0" width="44" height="70" fill="#388E3C"/>
+  </g>
+  <text x="400" y="965" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#E3F2FD">España  ·  भारत India</text>
+
+  <rect x="150" y="985" width="500" height="2" fill="#BBDEFB"/>
+  <text x="400" y="1020" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#FFFFFF">By [Author Name] · First Edition</text>
+  <text x="400" y="1045" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#BBDEFB">CEFR A1 · A2  |  Student Book + Workbook</text>
+</svg>

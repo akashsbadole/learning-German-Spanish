@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <text x="400" y="48" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#37474F">Los Números</text>
+  <text x="400" y="76" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#78909C">आकडे | अंक</text>
+
+  <g font-family="sans-serif" text-anchor="middle">
+    <g>
+      <rect x="8" y="100" width="64" height="150" rx="10" fill="#FFF3E0"/>
+      <text x="40" y="162" font-size="32" font-weight="bold" fill="#37474F">0</text>
+      <text x="40" y="196" font-size="17" fill="#546E7A">cero</text>
+      <text x="40" y="222" font-size="14" fill="#78909C">सेरो</text>
+    </g>
+    <g>
+      <rect x="80" y="100" width="64" height="150" rx="10" fill="#E3F2FD"/>
+      <text x="112" y="162" font-size="32" font-weight="bold" fill="#37474F">1</text>
+      <text x="112" y="196" font-size="17" fill="#546E7A">uno</text>
+      <text x="112" y="222" font-size="14" fill="#78909C">उनो</text>
+    </g>
+    <g>
+      <rect x="152" y="100" width="64" height="150" rx="10" fill="#F3E5F5"/>
+      <text x="184" y="162" font-size="32" font-weight="bold" fill="#37474F">2</text>
+      <text x="184" y="196" font-size="17" fill="#546E7A">dos</text>
+      <text x="184" y="222" font-size="14" fill="#78909C">दोस</text>
+    </g>
+    <g>
+      <rect x="224" y="100" width="64" height="150" rx="10" fill="#E8F5E9"/>
+      <text x="256" y="162" font-size="32" font-weight="bold" fill="#37474F">3</text>
+      <text x="256" y="196" font-size="17" fill="#546E7A">tres</text>
+      <text x="256" y="222" font-size="14" fill="#78909C">त्रेस</text>
+    </g>
+    <g>
+      <rect x="296" y="100" width="64" height="150" rx="10" fill="#FFFDE7"/>
+      <text x="328" y="162" font-size="32" font-weight="bold" fill="#37474F">4</text>
+      <text x="328" y="196" font-size="17" fill="#546E7A">cuatro</text>
+      <text x="328" y="222" font-size="14" fill="#78909C">क्वात्रो</text>
+    </g>
+    <g>
+      <rect x="368" y="100" width="64" height="150" rx="10" fill="#FBE9E7"/>
+      <text x="400" y="162" font-size="32" font-weight="bold" fill="#37474F">5</text>
+      <text x="400" y="196" font-size="17" fill="#546E7A">cinco</text>
+      <text x="400" y="222" font-size="14" fill="#78909C">सिंको</text>
+    </g>
+    <g>
+      <rect x="440" y="100" width="64" height="150" rx="10" fill="#E3F2FD"/>
+      <text x="472" y="162" font-size="32" font-weight="bold" fill="#37474F">6</text>
+      <text x="472" y="196" font-size="17" fill="#546E7A">seis</text>
+      <text x="472" y="222" font-size="14" fill="#78909C">सेइस</text>
+    </g>
+    <g>
+      <rect x="512" y="100" width="64" height="150" rx="10" fill="#FFF3E0"/>
+      <text x="544" y="162" font-size="32" font-weight="bold" fill="#37474F">7</text>
+      <text x="544" y="196" font-size="17" fill="#546E7A">siete</text>
+      <text x="544" y="222" font-size="14" fill="#78909C">सियेते</text>
+    </g>
+    <g>
+      <rect x="584" y="100" width="64" height="150" rx="10" fill="#F3E5F5"/>
+      <text x="616" y="162" font-size="32" font-weight="bold" fill="#37474F">8</text>
+      <text x="616" y="196" font-size="17" fill="#546E7A">ocho</text>
+      <text x="616" y="222" font-size="14" fill="#78909C">ओचो</text>
+    </g>
+    <g>
+      <rect x="656" y="100" width="64" height="150" rx="10" fill="#E8F5E9"/>
+      <text x="688" y="162" font-size="32" font-weight="bold" fill="#37474F">9</text>
+      <text x="688" y="196" font-size="17" fill="#546E7A">nueve</text>
+      <text x="688" y="222" font-size="14" fill="#78909C">न्वेबे</text>
+    </g>
+    <g>
+      <rect x="728" y="100" width="64" height="150" rx="10" fill="#FFE0B2"/>
+      <text x="760" y="162" font-size="30" font-weight="bold" fill="#37474F">10</text>
+      <text x="760" y="196" font-size="17" fill="#546E7A">diez</text>
+      <text x="760" y="222" font-size="14" fill="#78909C">दियेस</text>
+    </g>
+
+    <g>
+      <rect x="8" y="280" width="76" height="150" rx="10" fill="#FFE0B2"/>
+      <text x="46" y="342" font-size="30" font-weight="bold" fill="#37474F">10</text>
+      <text x="46" y="376" font-size="17" fill="#546E7A">diez</text>
+      <text x="46" y="402" font-size="14" fill="#78909C">दियेस</text>
+    </g>
+    <g>
+      <rect x="92" y="280" width="76" height="150" rx="10" fill="#FFF3E0"/>
+      <text x="130" y="342" font-size="30" font-weight="bold" fill="#37474F">20</text>
+      <text x="130" y="376" font-size="17" fill="#546E7A">veinte</text>
+      <text x="130" y="402" font-size="14" fill="#78909C">बेइंते</text>
+    </g>
+    <g>
+      <rect x="176" y="280" width="76" height="150" rx="10" fill="#E3F2FD"/>
+      <text x="214" y="342" font-size="30" font-weight="bold" fill="#37474F">30</text>
+      <text x="214" y="376" font-size="17" fill="#546E7A">treinta</text>
+      <text x="214" y="402" font-size="14" fill="#78909C">त्रेइंता</text>
+    </g>
+    <g>
+      <rect x="260" y="280" width="76" height="150" rx="10" fill="#F3E5F5"/>
+      <text x="298" y="342" font-size="30" font-weight="bold" fill="#37474F">40</text>
+      <text x="298" y="376" font-size="17" fill="#546E7A">cuarenta</text>
+      <text x="298" y="402" font-size="14" fill="#78909C">क्वारेंता</text>
+    </g>
+    <g>
+      <rect x="344" y="280" width="76" height="150" rx="10" fill="#E8F5E9"/>
+      <text x="382" y="342" font-size="30" font-weight="bold" fill="#37474F">50</text>
+      <text x="382" y="376" font-size="17" fill="#546E7A">cincuenta</text>
+      <text x="382" y="402" font-size="14" fill="#78909C">सिंक्वेंता</text>
+    </g>
+    <g>
+      <rect x="428" y="280" width="76" height="150" rx="10" fill="#FFFDE7"/>
+      <text x="466" y="342" font-size="30" font-weight="bold" fill="#37474F">60</text>
+      <text x="466" y="376" font-size="17" fill="#546E7A">sesenta</text>
+      <text x="466" y="402" font-size="14" fill="#78909C">सेसेन्ता</text>
+    </g>
+    <g>
+      <rect x="512" y="280" width="76" height="150" rx="10" fill="#FBE9E7"/>
+      <text x="550" y="342" font-size="30" font-weight="bold" fill="#37474F">70</text>
+      <text x="550" y="376" font-size="17" fill="#546E7A">setenta</text>
+      <text x="550" y="402" font-size="14" fill="#78909C">सेतेन्ता</text>
+    </g>
+    <g>
+      <rect x="596" y="280" width="76" height="150" rx="10" fill="#E3F2FD"/>
+      <text x="634" y="342" font-size="30" font-weight="bold" fill="#37474F">80</text>
+      <text x="634" y="376" font-size="17" fill="#546E7A">ochenta</text>
+      <text x="634" y="402" font-size="14" fill="#78909C">ओचेंता</text>
+    </g>
+    <g>
+      <rect x="680" y="280" width="76" height="150" rx="10" fill="#F3E5F5"/>
+      <text x="718" y="342" font-size="30" font-weight="bold" fill="#37474F">90</text>
+      <text x="718" y="376" font-size="17" fill="#546E7A">noventa</text>
+      <text x="718" y="402" font-size="14" fill="#78909C">नोबेन्ता</text>
+    </g>
+    <g>
+      <rect x="764" y="280" width="34" height="150" rx="8" fill="#FFE0B2"/>
+      <text x="781" y="342" font-size="26" font-weight="bold" fill="#37474F">100</text>
+      <text x="781" y="376" font-size="14" fill="#546E7A">cien</text>
+      <text x="781" y="402" font-size="12" fill="#78909C">सियेन</text>
+    </g>
+
+    <text x="400" y="495" text-anchor="middle" font-size="22" fill="#37474F">11 once ओन्से · 12 doce दोसे · 13 trece त्रेसे · 14 catorce कातोर्से · 15 quince किंसे</text>
+    <text x="400" y="525" text-anchor="middle" font-size="22" fill="#37474F">16 dieciséis · 17 diecisiete · 18 dieciocho · 19 diecinueve · 21 veintiuno</text>
+    <text x="400" y="565" text-anchor="middle" font-size="18" fill="#78909C">200 doscientos · 300 trescientos · 1000 mil</text>
+  </g>
+</svg>
