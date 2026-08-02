@@ -1,14 +1,13 @@
 # Lesson Template — Spanish Made Easy for Marathi & Hindi Speakers
 
-> Reusable template for generating **every lesson** (A1 → A2) with AI.
-> Fill in the placeholders below and paste the prompt into any LLM (ChatGPT / Claude / Gemini).
+> Reusable template for writing **every lesson** (A1 → A2).
+> Fill in the placeholders and follow the structure below.
 
 ---
 
-## 1. Master Lesson Prompt (copy-paste)
+## 1. Master Lesson Structure (use for every lesson)
 
 ```
-You are a Spanish teacher for Marathi (मराठी) and Hindi (हिंदी) speakers.
 Create Lesson {N} — Topic: {TOPIC} — CEFR level {A1/A2}.
 
 Explain everything FIRST in Marathi, THEN in Hindi, then show Spanish examples.
@@ -61,7 +60,7 @@ Lesson-{NN}-{topic}.md
 
 | Spanish | Marathi | Hindi | Pronunciation |
 
-> Keep this exact column order in **every** table in the book for consistency (Phase 14 AI review will check this).
+> Keep this exact column order in **every** table in the book for consistency.
 
 ---
 
@@ -82,15 +81,15 @@ Lesson-{NN}-{topic}.md
 
 ## 5. How to Use (Phases 3–7)
 
-1. **Phase 3** — paste Master Prompt with Lesson {N} and {TOPIC} from the A1/A2 curriculum
-2. **Phase 6** — check the dialogue is natural; fix translations via DeepL
+1. **Phase 3** — use the Master Lesson Structure with Lesson {N} and {TOPIC} from the A1/A2 curriculum
+2. **Phase 6** — check the dialogue is natural; fix translations
 3. **Phase 7** — verify exercises; answer key must match
-4. **Phase 14** — paste the lesson into the AI Review prompt below
+4. **Phase 14** — run the Quality Review checklist below
 5. **Phase 15** — assemble into the book with the TOC
 
 ---
 
-## 6. AI Review Prompt (Phase 14)
+## 6. Quality Review Checklist
 
 ```
 Review this Spanish lesson for a book for Marathi/Hindi speakers.

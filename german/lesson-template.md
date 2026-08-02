@@ -1,17 +1,14 @@
 # Lesson Template — German Made Easy for Marathi & Hindi Speakers
 
-> Reusable template for generating **every chapter** (Goethe A1 → A2) with AI.
-> Fill in the placeholders and paste the prompt into any LLM (ChatGPT / Claude / Gemini).
+> Reusable template for writing **every chapter** (Goethe A1 → A2).
+> Fill in the placeholders and follow the structure below.
 
 ---
 
-## 1. Master Chapter Prompt (copy-paste)
+## 1. Master Chapter Structure (use for every chapter)
 
 ```
-You are a Goethe-certified German language instructor for Marathi (मराठी)
-and Hindi (हिंदी) speakers.
-
-Create Chapter {N} — Topic: {TOPIC} — Goethe level {A1/A2}.
+Chapter {N} — Topic: {TOPIC} — Goethe level {A1/A2}
 
 Explain everything FIRST in Marathi, THEN in Hindi, then show German examples.
 
@@ -67,7 +64,7 @@ Chapter-{NN}-{topic}.md
 
 | German | Pronunciation | English | Hindi | Marathi |
 
-> Keep this exact column order in **every** table in the book (Phase 11 AI review will check this).
+> Keep this exact column order in **every** table in the book.
 
 ---
 
@@ -90,15 +87,15 @@ Chapter-{NN}-{topic}.md
 
 ## 5. How to Use (Phases 3–7)
 
-1. **Phase 3** — paste Master Prompt with Chapter {N} and {TOPIC} from the TOC
-2. **Phase 6** — check the conversation is natural; fix translations via DeepL
+1. **Phase 3** — use the Master Chapter Structure with Chapter {N} and {TOPIC} from the TOC
+2. **Phase 6** — check the conversation is natural; fix translations
 3. **Phase 7** — verify exercises; answer key must match
-4. **Phase 11** — paste the chapter into the AI Review prompt below
-5. **Phase 12** — assemble into the book with the TOC
+4. **Phase 12** — run the Quality Review checklist below
+5. **Phase 13** — assemble into the book with the TOC
 
 ---
 
-## 6. AI Review Prompt (Phase 11)
+## 6. Quality Review Checklist
 
 ```
 Review this German chapter for a book for Marathi/Hindi speakers.

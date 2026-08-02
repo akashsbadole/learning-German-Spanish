@@ -1,20 +1,20 @@
 # Language Learning Books — German & Spanish (A1 → A2)
 
-> Complete AI-ready book projects for **Marathi (मराठी)** and **Hindi (हिंदी)** speakers — learn **German** and **Spanish** from zero to the official **A1/A2 exams**, with explanations in your own language.
+> Complete book projects for **Marathi (मराठी)** and **Hindi (हिंदी)** speakers — learn **German** and **Spanish** from zero to the official **A1/A2 exams**, with explanations in your own language.
 
 | Project | Language | Exam | Files |
 | --- | --- | --- | --- |
-| [`german/`](german/) | German (Deutsch) | **Goethe-Zertifikat A1 & A2** | 7 markdown + 12 SVG illustrations |
-| [`spanish/`](spanish/) | Spanish (Español) | **DELE A1 & A2** | 7 markdown + 20 SVG illustrations |
+| [`german/`](german/) | German (Deutsch) | **Goethe-Zertifikat A1 & A2** | 6 markdown + 12 SVG illustrations |
+| [`spanish/`](spanish/) | Spanish (Español) | **DELE A1 & A2** | 6 markdown + 20 SVG illustrations |
 
 ## 📕 PDF Books (Ready to Read)
 
 | Book | Pages | Download |
 | --- | --- | --- |
-| German Made Easy — Complete (A1 + A2) | 69 | [`German-Made-Easy-Complete.pdf`](German-Made-Easy-Complete.pdf) |
-| Spanish Made Easy — Complete (A1 + A2) | 71 | [`Spanish-Made-Easy-Complete.pdf`](Spanish-Made-Easy-Complete.pdf) |
+| German Made Easy — Complete (A1 + A2) | 66 | [`German-Made-Easy-Complete.pdf`](German-Made-Easy-Complete.pdf) |
+| Spanish Made Easy — Complete (A1 + A2) | 69 | [`Spanish-Made-Easy-Complete.pdf`](Spanish-Made-Easy-Complete.pdf) |
 
-> The PDFs combine the full project brief, chapter template, 200+ word vocabulary starter, **teacher's guide (A1 + A2 courses)**, exam guide and both mock tests in one document. Generated from the `*-Made-Easy-Complete.md` files.
+> The PDFs combine the full project brief (including the **teacher's guide with A1 + A2 courses**), chapter template, 200+ word vocabulary starter, exam guide and both mock tests in one document. Generated from the `*-Made-Easy-Complete.md` files.
 
 ---
 
@@ -100,22 +100,23 @@ Spanish is spoken by **500+ million people** in 21 countries. These books follow
 
 | File | Purpose |
 | --- | --- |
-| **`*-Made-Easy-Project.md`** | Complete project brief: alphabet, pronunciation, numbers, core grammar, vocabulary, sample lesson, flashcards, quiz, common mistakes, book TOC, full AI workflow, AI tool list, book series, image gallery |
-| **`*-Made-Easy-Complete.md`** | The whole project in ONE file (brief + template + vocabulary + exam files) — feed it to an AI in one go |
-| **`lesson-template.md`** | Reusable master chapter prompt (copy-paste for generating each chapter with AI) |
+| **`*-Made-Easy-Project.md`** | Complete project brief: alphabet, pronunciation, numbers, core grammar, vocabulary, sample lesson, flashcards, quiz, common mistakes, book TOC, book production workflow, **teacher's guide (A1 + A2 courses)**, book series, image gallery |
+| **`*-Made-Easy-Complete.md`** | The whole project in ONE file (brief + template + vocabulary + exam files) — print-ready source for the PDF |
+| **`lesson-template.md`** | Reusable master chapter structure (write every chapter the same way) |
 | **`vocabulary-starter.md`** | 200+ core words, 16 topics, 6 columns: Word / Pronunciation / English / Hindi / Marathi / Example |
-| **`teacher-guide.md`** | Teacher's Guide: **Course 1 (A1) + Course 2 (A2) — 12 weeks each** — linguistic advantages for Marathi/Hindi speakers, top 100 frequency words, false friends, 10 transfer errors, pronunciation drills, classroom activities, Indian-context vocabulary |
 | **`*exam-guide.md`** | Official exam structure, scoring rules, sample questions, exam vocabulary, pronunciation traps, 6-week exam plan |
 | **`mock-test-a1.md`** / **`mock-test-a2.md`** | Full practice exams exactly like the real one — listening scripts, reading, writing, speaking tasks + complete answer keys + scoring sheet |
 | **`images/`** | Hand-made flat vector illustrations (SVG) — labels in foreign language + Hindi + Marathi |
+
+> The **Teacher's Guide (Course 1 = A1, Course 2 = A2 — 12 weeks each)** is Section 7 of each `*-Made-Easy-Project.md` (and included in the PDFs).
 
 ---
 
 ## How to Use
 
 1. **Read the PDF** or `*-Made-Easy-Project.md` first — it explains the full curriculum and workflow.
-2. **Follow the Teacher's Guide** (`teacher-guide.md`) — two complete courses: **Course 1 = A1 (12 weeks)** and **Course 2 = A2 (12 weeks)** — week-by-week syllabus, top-100 frequency words, skills checklists and exam prep.
-3. **Use** `lesson-template.md` to generate every chapter with an AI tool (ChatGPT, etc.).
+2. **Follow the Teacher's Guide** (Section 7 of the project brief) — two complete courses: **Course 1 = A1 (12 weeks)** and **Course 2 = A2 (12 weeks)** — week-by-week syllabus, top-100 frequency words, skills checklists and exam prep.
+3. **Use** `lesson-template.md` to write every chapter in the same consistent structure.
 4. **Practice** vocabulary from `vocabulary-starter.md`; use the flashcards and quizzes from the brief.
 5. **Prepare for the exam** with `*exam-guide.md`, then take `mock-test-a1.md` and `mock-test-a2.md` with a stopwatch.
 6. **View illustrations** by opening any `.svg` file in a web browser.
@@ -129,9 +130,9 @@ Spanish is spoken by **500+ million people** in 21 countries. These books follow
 | **Sie/du = आप/तुम** | **usted/tú = आप/तुम** |
 | Compound words like Hindi | **tener** + age = मेरी उम्र है |
 
-### Quick Start with AI
+### Writing New Chapters
 
-Copy the master prompt from `lesson-template.md`, replace `{Chapter N}` with your chapter (e.g., "Chapter 4: Family"), and paste into an AI chatbot. Review the output with the Phase review prompt, cross-check translations with DeepL, then repeat for the next chapter.
+Use the master chapter structure from `lesson-template.md`, replace `{Chapter N}` with your chapter (e.g., "Chapter 4: Family"), follow the 13-section structure, then review it with the Quality Review checklist before assembling it into the book.
 
 ### 6-Week Exam Plan (same for both languages)
 
