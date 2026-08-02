@@ -196,6 +196,10 @@ Separate workbook with: writing pages, translation, sentence creation, picture d
 
 Create: lesson objectives, activities, games, pronunciation tips, common mistakes by Marathi/Hindi speakers, homework, assessment rubric.
 
+> **Teacher's Guide for this project:** [`teacher-guide.md`](teacher-guide.md) — written by a Spanish teacher who speaks Marathi/Hindi. Contains: linguistic advantages (5 vowels = Marathi vowels, b/v = ब, me gusta = मुझे पसंद है), **Course 1: A1 (12-week syllabus + top 100 words + skills + exam prep)**, **Course 2: A2 (12-week syllabus + 100 words + skills + exam prep)**, false friends, 10 transfer errors, pronunciation drills, classroom activities, Indian-context vocabulary.
+
+> **Teacher's golden rules:** teach Spanish through Hindi/Marathi grammar (gustar = मुझे पसंद है, tener + age = मेरी उम्र है). Spanish vowels are EXACTLY Marathi vowels — drill purity (कोमो, never कोउमो). The biggest enemy is SOV → SVO word order: Hindi says मैं किताब पढ़ता हूँ, Spanish says **yo leo el libro**.
+
 ### Phase 14 – AI Review
 
 > Review this Spanish learning book. Check: grammar, Spanish accuracy, Marathi translation, Hindi translation, CEFR compliance, pronunciation, exercises, consistency. Suggest improvements.
@@ -703,7 +707,9 @@ Write 3 sentences introducing yourself: *Hola, me llamo ___ . Soy de India. Esto
 | --- | --- |
 | Introduction (प्रस्तावना) | v |
 | How to Use This Book | vii |
-| 1. Spanish Alphabet | 1 |
+| **Teacher's Guide (शिक्षक मार्गदर्शिका)** | |
+| Teacher's Guide — A1 + A2 Courses (12 weeks each) | 1 |
+| 1. Spanish Alphabet | 9 |
 | 2. Pronunciation | 7 |
 | 3. Greetings | 15 |
 | 4. Introductions | 23 |

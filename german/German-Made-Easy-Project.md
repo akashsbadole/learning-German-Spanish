@@ -477,6 +477,8 @@ Write 3 sentences introducing yourself: *Hallo! Ich heiße ___ . Ich komme aus I
 | Pronunciation (उच्चारण) | 17 |
 | Numbers (अंक) | 25 |
 | Greetings (अभिवादन) | 31 |
+| **Teacher's Guide (शिक्षक मार्गदर्शिका)** | |
+| Teacher's Guide — A1 + A2 Courses (12 weeks each) | 33 |
 | **Part 2 — A1 Level** | |
 | Ch 1: Greetings (Begrüßung) | 39 |
 | Ch 2: Introducing Yourself (Vorstellung) | 47 |
@@ -568,11 +570,17 @@ Repeat for: House, School, Hospital, Market, Family, Office, Fruits, Vegetables,
 
 > **Note:** A starter set of 11 hand-made vector illustrations (SVG) for this project is included in the [`images/`](images/) folder — see the [Image Gallery](#16-image-gallery).
 
-### Phase 11 – AI Review
+### Phase 11 – Teaching method (Teacher's Guide)
+
+> **Teacher's Guide for this project:** [`teacher-guide.md`](teacher-guide.md) — written by a German teacher who speaks Marathi/Hindi. Contains: linguistic advantages (cases, SOV, Sie/du), **Course 1: A1 (12-week syllabus + top 100 words + skills + exam prep)**, **Course 2: A2 (12-week syllabus + 100 words + skills + exam prep)**, false friends, 10 transfer errors, pronunciation drills, classroom activities, Indian-context vocabulary.
+
+> **Teacher's golden rules:** teach German through Hindi/Marathi grammar (Dativ = दाता कारक), not through English. Marathi/Hindi are case languages with SOV order — German subordinate clauses feel natural. Always memorize nouns WITH articles (der/die/das).
+
+### Phase 12 – AI Review
 
 > Review this German chapter for a book for Marathi/Hindi speakers. Check: German accuracy, umlauts and ß, English meaning, Hindi translation, Marathi translation, Goethe A1/A2 compliance, pronunciation, exercises, consistency. Suggest improvements.
 
-### Phase 12 – Book Formatting
+### Phase 13 – Book Formatting
 
 Format for: A4 PDF, 6×9 inch paperback, ePub, Kindle, color edition, black-and-white edition. Include: table of contents, page numbers, headers, answer key, glossary, index.
 

@@ -4,17 +4,17 @@
 
 | Project | Language | Exam | Files |
 | --- | --- | --- | --- |
-| [`german/`](german/) | German (Deutsch) | **Goethe-Zertifikat A1 & A2** | 6 markdown + 12 SVG illustrations |
-| [`spanish/`](spanish/) | Spanish (Español) | **DELE A1 & A2** | 6 markdown + 20 SVG illustrations |
+| [`german/`](german/) | German (Deutsch) | **Goethe-Zertifikat A1 & A2** | 7 markdown + 12 SVG illustrations |
+| [`spanish/`](spanish/) | Spanish (Español) | **DELE A1 & A2** | 7 markdown + 20 SVG illustrations |
 
 ## 📕 PDF Books (Ready to Read)
 
 | Book | Pages | Download |
 | --- | --- | --- |
-| German Made Easy — Complete (A1 + A2) | 54 | [`German-Made-Easy-Complete.pdf`](German-Made-Easy-Complete.pdf) |
-| Spanish Made Easy — Complete (A1 + A2) | 55 | [`Spanish-Made-Easy-Complete.pdf`](Spanish-Made-Easy-Complete.pdf) |
+| German Made Easy — Complete (A1 + A2) | 69 | [`German-Made-Easy-Complete.pdf`](German-Made-Easy-Complete.pdf) |
+| Spanish Made Easy — Complete (A1 + A2) | 71 | [`Spanish-Made-Easy-Complete.pdf`](Spanish-Made-Easy-Complete.pdf) |
 
-> The PDFs combine the full project brief, chapter template, 200+ word vocabulary starter, exam guide and both mock tests in one document. Generated from the `*-Made-Easy-Complete.md` files.
+> The PDFs combine the full project brief, chapter template, 200+ word vocabulary starter, **teacher's guide (A1 + A2 courses)**, exam guide and both mock tests in one document. Generated from the `*-Made-Easy-Complete.md` files.
 
 ---
 
@@ -104,6 +104,7 @@ Spanish is spoken by **500+ million people** in 21 countries. These books follow
 | **`*-Made-Easy-Complete.md`** | The whole project in ONE file (brief + template + vocabulary + exam files) — feed it to an AI in one go |
 | **`lesson-template.md`** | Reusable master chapter prompt (copy-paste for generating each chapter with AI) |
 | **`vocabulary-starter.md`** | 200+ core words, 16 topics, 6 columns: Word / Pronunciation / English / Hindi / Marathi / Example |
+| **`teacher-guide.md`** | Teacher's Guide: **Course 1 (A1) + Course 2 (A2) — 12 weeks each** — linguistic advantages for Marathi/Hindi speakers, top 100 frequency words, false friends, 10 transfer errors, pronunciation drills, classroom activities, Indian-context vocabulary |
 | **`*exam-guide.md`** | Official exam structure, scoring rules, sample questions, exam vocabulary, pronunciation traps, 6-week exam plan |
 | **`mock-test-a1.md`** / **`mock-test-a2.md`** | Full practice exams exactly like the real one — listening scripts, reading, writing, speaking tasks + complete answer keys + scoring sheet |
 | **`images/`** | Hand-made flat vector illustrations (SVG) — labels in foreign language + Hindi + Marathi |
@@ -113,10 +114,20 @@ Spanish is spoken by **500+ million people** in 21 countries. These books follow
 ## How to Use
 
 1. **Read the PDF** or `*-Made-Easy-Project.md` first — it explains the full curriculum and workflow.
-2. **Use** `lesson-template.md` to generate every chapter with an AI tool (ChatGPT, etc.).
-3. **Practice** vocabulary from `vocabulary-starter.md`; use the flashcards and quizzes from the brief.
-4. **Prepare for the exam** with `*exam-guide.md`, then take `mock-test-a1.md` and `mock-test-a2.md` with a stopwatch.
-5. **View illustrations** by opening any `.svg` file in a web browser.
+2. **Follow the Teacher's Guide** (`teacher-guide.md`) — two complete courses: **Course 1 = A1 (12 weeks)** and **Course 2 = A2 (12 weeks)** — week-by-week syllabus, top-100 frequency words, skills checklists and exam prep.
+3. **Use** `lesson-template.md` to generate every chapter with an AI tool (ChatGPT, etc.).
+4. **Practice** vocabulary from `vocabulary-starter.md`; use the flashcards and quizzes from the brief.
+5. **Prepare for the exam** with `*exam-guide.md`, then take `mock-test-a1.md` and `mock-test-a2.md` with a stopwatch.
+6. **View illustrations** by opening any `.svg` file in a web browser.
+
+### Teacher's Advantages for Marathi/Hindi Speakers
+
+| German | Spanish |
+| --- | --- |
+| Cases: **Dativ = दाता कारक** | 5 vowels = exactly Marathi vowels |
+| SOV order → subordinate clauses feel natural | **me gusta = मुझे पसंद है** (same structure!) |
+| **Sie/du = आप/तुम** | **usted/tú = आप/तुम** |
+| Compound words like Hindi | **tener** + age = मेरी उम्र है |
 
 ### Quick Start with AI
 
